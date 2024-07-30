@@ -3,7 +3,7 @@ project(ScreenRecorder)
 
 set(CMAKE_CXX_STANDARD 14)
 
-# Set the path to your FFmpeg installation
+# Set the path to FFmpeg installation
 set(FFMPEG_DIR "C:/Users/Jared/Desktop/ffmpeg-master-latest-win64-gpl-shared")
 
 # Include FFmpeg headers
