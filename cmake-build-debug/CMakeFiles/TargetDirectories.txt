@@ -1,0 +1,3 @@
+C:/Users/Jared/CLionProjects/winShiftV/cmake-build-debug/CMakeFiles/ScreenRecorder.dir
+C:/Users/Jared/CLionProjects/winShiftV/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jared/CLionProjects/winShiftV/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3258 @@
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to capture screen.
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording started!
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording stopped! Frames captured: 38
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1463x823
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+FFmpeg: width not divisible by 2 (1463x823)
+
+Could not open codec: Generic error in an external library
+Failed to initialize video encoder!
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to capture screen.
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording started!
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording stopped! Frames captured: 27
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1463x823
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+FFmpeg: width not divisible by 2 (1463x823)
+
+Could not open codec: Generic error in an external library
+Failed to initialize video encoder!
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to capture screen.
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording started!
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording stopped! Frames captured: 45
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1463x823
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+FFmpeg: width not divisible by 2 (1463x823)
+
+Could not open codec: Generic error in an external library
+Failed to initialize video encoder!
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to capture screen.
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording started!
+Hotkey detected in LowLevelKeyboardProc
+WM_HOTKEY received in WindowProc
+Recording stopped! Frames captured: 35
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1462x822
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 1462x822
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+FFmpeg: profile High, level 3.2, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=24 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+FFmpeg: frame=   0 QP=41.76 NAL=3 Slice:I Poc:0   I:4784 P:0    SKIP:0    size=4537 bytes
+
+FFmpeg: frame=   1 QP=35.70 NAL=2 Slice:P Poc:2   I:476  P:208  SKIP:4100 size=1035 bytes
+
+FFmpeg: frame=   2 QP=32.04 NAL=2 Slice:P Poc:4   I:175  P:36   SKIP:4573 size=609 bytes
+
+FFmpeg: frame=   3 QP=41.80 NAL=2 Slice:P Poc:6   I:122  P:66   SKIP:4596 size=801 bytes
+
+FFmpeg: frame=   4 QP=39.76 NAL=2 Slice:P Poc:12  I:182  P:69   SKIP:4533 size=1386 bytes
+
+FFmpeg: frame=   5 QP=43.86 NAL=2 Slice:B Poc:8   I:37   P:86   SKIP:4661 size=280 bytes
+
+FFmpeg: frame=   6 QP=45.74 NAL=0 Slice:B Poc:10  I:1    P:66   SKIP:4717 size=139 bytes
+
+FFmpeg: frame=   7 QP=33.48 NAL=2 Slice:P Poc:20  I:21   P:10   SKIP:4753 size=119 bytes
+
+FFmpeg: frame=   8 QP=42.00 NAL=2 Slice:B Poc:16  I:6    P:34   SKIP:4744 size=108 bytes
+
+FFmpeg: frame=   9 QP=44.00 NAL=0 Slice:B Poc:14  I:2    P:25   SKIP:4757 size=76 bytes
+
+FFmpeg: frame=  10 QP=44.00 NAL=0 Slice:B Poc:18  I:0    P:21   SKIP:4763 size=67 bytes
+
+FFmpeg: frame=  11 QP=43.00 NAL=2 Slice:P Poc:22  I:1    P:0    SKIP:4783 size=51 bytes
+
+FFmpeg: frame=  12 QP=38.67 NAL=3 Slice:I Poc:0   I:4784 P:0    SKIP:0    size=7718 bytes
+
+FFmpeg: frame=  13 QP=44.71 NAL=2 Slice:P Poc:8   I:561  P:172  SKIP:4051 size=1089 bytes
+
+FFmpeg: frame=  14 QP=42.15 NAL=2 Slice:B Poc:4   I:4    P:283  SKIP:4497 size=208 bytes
+
+FFmpeg: frame=  15 QP=44.00 NAL=0 Slice:B Poc:2   I:0    P:59   SKIP:4725 size=88 bytes
+
+FFmpeg: frame=  16 QP=44.00 NAL=0 Slice:B Poc:6   I:1    P:218  SKIP:4565 size=149 bytes
+
+FFmpeg: frame=  17 QP=31.64 NAL=2 Slice:P Poc:10  I:306  P:26   SKIP:4452 size=423 bytes
+
+FFmpeg: frame=  18 QP=31.42 NAL=2 Slice:P Poc:12  I:223  P:20   SKIP:4541 size=268 bytes
+
+FFmpeg: frame=  19 QP=26.74 NAL=2 Slice:P Poc:20  I:197  P:1    SKIP:4586 size=149 bytes
+
+FFmpeg: frame=  20 QP=41.00 NAL=2 Slice:B Poc:16  I:0    P:107  SKIP:4677 size=131 bytes
+
+FFmpeg: frame=  21 QP=43.00 NAL=0 Slice:B Poc:14  I:0    P:100  SKIP:4684 size=119 bytes
+
+FFmpeg: frame=  22 QP=43.00 NAL=0 Slice:B Poc:18  I:0    P:30   SKIP:4754 size=76 bytes
+
+FFmpeg: frame=  23 QP=42.61 NAL=2 Slice:P Poc:22  I:4    P:2    SKIP:4778 size=64 bytes
+
+FFmpeg: frame=  24 QP=33.68 NAL=3 Slice:I Poc:0   I:4784 P:0    SKIP:0    size=6134 bytes
+
+FFmpeg: frame=  25 QP=41.00 NAL=2 Slice:P Poc:8   I:72   P:66   SKIP:4646 size=100 bytes
+
+FFmpeg: frame=  26 QP=44.00 NAL=2 Slice:B Poc:4   I:0    P:10   SKIP:4774 size=56 bytes
+
+FFmpeg: frame=  27 QP=46.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:4784 size=44 bytes
+
+FFmpeg: frame=  28 QP=46.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:4784 size=44 bytes
+
+FFmpeg: frame=  29 QP=27.51 NAL=2 Slice:P Poc:16  I:80   P:68   SKIP:4636 size=122 bytes
+
+FFmpeg: frame=  30 QP=42.00 NAL=2 Slice:B Poc:12  I:0    P:77   SKIP:4707 size=82 bytes
+
+FFmpeg: frame=  31 QP=45.00 NAL=0 Slice:B Poc:10  I:0    P:11   SKIP:4773 size=53 bytes
+
+FFmpeg: frame=  32 QP=43.00 NAL=0 Slice:B Poc:14  I:0    P:9    SKIP:4775 size=52 bytes
+
+FFmpeg: frame=  33 QP=24.78 NAL=2 Slice:P Poc:20  I:70   P:7    SKIP:4707 size=103 bytes
+
+FFmpeg: frame=  34 QP=40.00 NAL=0 Slice:B Poc:18  I:0    P:138  SKIP:4646 size=123 bytes
+
+FFmpeg: frame I:3     Avg QP:38.04  size:  6130
+
+FFmpeg: frame P:14    Avg QP:35.44  size:   451
+
+FFmpeg: frame B:18    Avg QP:43.49  size:   105
+
+FFmpeg: consecutive B-frames: 28.6%  5.7%  8.6% 57.1%
+
+FFmpeg: mb I  I16..4: 13.9% 80.7%  5.4%
+
+FFmpeg: mb P  I16..4:  1.4%  2.2%  0.2%  P16..4:  1.0%  0.1%  0.0%  0.0%  0.0%    skip:95.2%
+
+FFmpeg: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  1.5%  0.0%  0.0%  direct: 0.0%  skip:98.5%  L0:44.8% L1:54.3% BI: 0.9%
+
+FFmpeg: final ratefactor: 31.27
+
+FFmpeg: 8x8 transform intra:77.3% inter:69.4%
+
+FFmpeg: coded y,uvDC,uvAC intra: 4.7% 3.1% 0.6% inter: 0.1% 0.0% 0.0%
+
+FFmpeg: i16 v,h,dc,p: 17% 82%  1%  0%
+
+FFmpeg: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 57% 19% 21%  0%  2%  0%  0%  0%  0%
+
+FFmpeg: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 22% 17%  1% 20%  2%  7%  1%  3%
+
+FFmpeg: i8c dc,h,v,p: 90%  8%  2%  0%
+
+FFmpeg: Weighted P-Frames: Y:0.0% UV:0.0%
+
+FFmpeg: ref P L0: 85.5%  6.6%  6.0%  2.0%
+
+FFmpeg: ref B L0: 72.8% 20.7%  6.5%
+
+FFmpeg: ref B L1: 91.9%  8.1%
+
+FFmpeg: kb/s:182.42
+
+FFmpeg: Statistics: 28535 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to start region selection.
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to start region selection.
+Region selection started
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to start region selection.
+Region selection started
+Screen Recorder application starting...
+Application started. Press Win+Shift+V to start region selection.
+Region selection started
+Screen Recorder application starting...
+Overlay window created successfully
+Application started. Press Win+Shift+V to start region selection.
+Hotkey Win+Shift+V detected
+Region selection started
+Mouse down at 669, 700
+Drawing to 669, 699
+Drawing to 669, 698
+Drawing to 670, 698
+Drawing to 670, 697
+Drawing to 670, 697
+Drawing to 670, 696
+Drawing to 670, 696
+Drawing to 670, 695
+Drawing to 670, 694
+Drawing to 671, 694
+Drawing to 671, 694
+Drawing to 671, 693
+Drawing to 671, 693
+Drawing to 671, 692
+Drawing to 671, 692
+Drawing to 671, 691
+Drawing to 672, 690
+Drawing to 672, 690
+Drawing to 672, 689
+Drawing to 672, 689
+Drawing to 673, 688
+Drawing to 673, 688
+Drawing to 674, 687
+Drawing to 674, 686
+Drawing to 674, 686
+Drawing to 675, 685
+Drawing to 675, 685
+Drawing to 676, 684
+Drawing to 677, 682
+Drawing to 678, 681
+Drawing to 678, 681
+Drawing to 679, 680
+Drawing to 679, 679
+Drawing to 680, 678
+Drawing to 681, 678
+Drawing to 682, 676
+Drawing to 682, 675
+Drawing to 683, 675
+Drawing to 684, 674
+Drawing to 686, 673
+Drawing to 687, 671
+Drawing to 687, 671
+Drawing to 688, 670
+Drawing to 689, 670
+Drawing to 691, 668
+Drawing to 691, 668
+Drawing to 692, 667
+Drawing to 692, 667
+Drawing to 694, 665
+Drawing to 695, 665
+Drawing to 695, 664
+Drawing to 696, 664
+Drawing to 698, 662
+Drawing to 700, 660
+Drawing to 701, 660
+Drawing to 702, 659
+Drawing to 703, 659
+Drawing to 703, 658
+Drawing to 705, 657
+Drawing to 705, 657
+Drawing to 706, 656
+Drawing to 707, 656
+Drawing to 708, 655
+Drawing to 710, 654
+Drawing to 710, 653
+Drawing to 712, 652
+Drawing to 714, 651
+Drawing to 715, 650
+Drawing to 716, 649
+Drawing to 716, 649
+Drawing to 717, 648
+Drawing to 717, 648
+Drawing to 719, 648
+Drawing to 719, 647
+Drawing to 720, 647
+Drawing to 720, 647
+Drawing to 721, 646
+Drawing to 723, 645
+Drawing to 723, 644
+Drawing to 724, 644
+Drawing to 726, 643
+Drawing to 726, 643
+Drawing to 727, 643
+Drawing to 727, 642
+Drawing to 728, 642
+Drawing to 728, 641
+Drawing to 729, 641
+Drawing to 730, 640
+Drawing to 731, 640
+Drawing to 731, 640
+Drawing to 732, 640
+Drawing to 733, 639
+Drawing to 734, 639
+Drawing to 734, 638
+Drawing to 735, 638
+Drawing to 735, 637
+Drawing to 736, 637
+Drawing to 737, 637
+Drawing to 738, 636
+Drawing to 739, 636
+Drawing to 739, 635
+Drawing to 740, 635
+Drawing to 741, 635
+Drawing to 742, 634
+Drawing to 742, 634
+Drawing to 744, 633
+Drawing to 746, 632
+Drawing to 746, 631
+Drawing to 747, 631
+Drawing to 748, 631
+Drawing to 750, 630
+Drawing to 750, 630
+Drawing to 751, 630
+Drawing to 752, 629
+Drawing to 753, 628
+Drawing to 753, 628
+Drawing to 755, 628
+Drawing to 756, 627
+Drawing to 758, 627
+Drawing to 760, 626
+Drawing to 761, 625
+Drawing to 762, 625
+Drawing to 764, 624
+Drawing to 764, 624
+Drawing to 765, 623
+Drawing to 766, 623
+Drawing to 767, 623
+Drawing to 768, 622
+Drawing to 768, 622
+Drawing to 769, 622
+Drawing to 770, 622
+Drawing to 772, 621
+Drawing to 774, 620
+Drawing to 774, 620
+Drawing to 775, 620
+Drawing to 776, 619
+Drawing to 777, 619
+Drawing to 778, 618
+Drawing to 778, 618
+Drawing to 781, 617
+Drawing to 781, 617
+Drawing to 782, 617
+Drawing to 783, 617
+Drawing to 784, 616
+Drawing to 785, 615
+Drawing to 786, 615
+Drawing to 787, 615
+Drawing to 789, 614
+Drawing to 789, 614
+Drawing to 790, 614
+Drawing to 791, 614
+Drawing to 791, 613
+Drawing to 792, 613
+Drawing to 793, 613
+Drawing to 794, 612
+Drawing to 794, 612
+Drawing to 795, 612
+Drawing to 796, 612
+Drawing to 798, 611
+Drawing to 798, 611
+Drawing to 799, 611
+Drawing to 800, 611
+Drawing to 801, 610
+Drawing to 802, 610
+Drawing to 803, 610
+Drawing to 803, 609
+Drawing to 805, 609
+Drawing to 805, 609
+Drawing to 806, 609
+Drawing to 806, 608
+Drawing to 807, 608
+Drawing to 808, 608
+Drawing to 809, 608
+Drawing to 809, 608
+Drawing to 810, 607
+Drawing to 810, 607
+Drawing to 811, 607
+Drawing to 811, 607
+Drawing to 812, 607
+Drawing to 813, 607
+Drawing to 813, 606
+Drawing to 813, 606
+Drawing to 814, 606
+Drawing to 814, 605
+Drawing to 815, 605
+Drawing to 815, 605
+Drawing to 815, 605
+Drawing to 816, 605
+Drawing to 817, 605
+Drawing to 817, 604
+Drawing to 817, 604
+Drawing to 818, 604
+Drawing to 818, 603
+Drawing to 819, 603
+Drawing to 820, 603
+Drawing to 821, 603
+Drawing to 821, 602
+Drawing to 821, 602
+Drawing to 822, 601
+Drawing to 822, 601
+Drawing to 823, 601
+Drawing to 823, 600
+Drawing to 824, 600
+Drawing to 825, 600
+Drawing to 826, 599
+Drawing to 826, 599
+Drawing to 828, 598
+Drawing to 828, 597
+Drawing to 829, 597
+Drawing to 829, 597
+Drawing to 830, 597
+Drawing to 831, 596
+Drawing to 832, 596
+Drawing to 832, 596
+Drawing to 833, 596
+Drawing to 834, 595
+Drawing to 835, 595
+Drawing to 835, 594
+Drawing to 836, 594
+Drawing to 838, 593
+Drawing to 839, 593
+Drawing to 840, 592
+Drawing to 840, 592
+Drawing to 842, 591
+Drawing to 842, 591
+Drawing to 843, 591
+Drawing to 843, 591
+Drawing to 844, 590
+Drawing to 844, 590
+Drawing to 845, 590
+Drawing to 846, 589
+Drawing to 846, 589
+Drawing to 847, 589
+Drawing to 847, 589
+Drawing to 848, 589
+Drawing to 848, 588
+Drawing to 849, 588
+Drawing to 850, 587
+Drawing to 850, 587
+Drawing to 851, 587
+Drawing to 851, 587
+Drawing to 852, 587
+Drawing to 852, 586
+Drawing to 853, 586
+Drawing to 854, 586
+Drawing to 854, 586
+Drawing to 854, 586
+Drawing to 855, 586
+Drawing to 855, 586
+Drawing to 856, 586
+Drawing to 856, 585
+Drawing to 856, 585
+Drawing to 857, 585
+Drawing to 857, 585
+Drawing to 858, 585
+Drawing to 858, 585
+Drawing to 859, 584
+Drawing to 859, 584
+Drawing to 860, 584
+Drawing to 860, 584
+Drawing to 861, 583
+Drawing to 862, 583
+Drawing to 862, 583
+Drawing to 863, 583
+Drawing to 863, 583
+Drawing to 864, 582
+Drawing to 864, 582
+Drawing to 865, 582
+Drawing to 866, 582
+Drawing to 866, 582
+Drawing to 866, 582
+Drawing to 867, 582
+Drawing to 867, 581
+Drawing to 868, 581
+Drawing to 868, 581
+Drawing to 869, 581
+Drawing to 870, 581
+Drawing to 870, 581
+Drawing to 871, 581
+Drawing to 871, 580
+Drawing to 872, 580
+Drawing to 872, 579
+Drawing to 873, 579
+Drawing to 874, 579
+Drawing to 874, 579
+Drawing to 875, 579
+Drawing to 875, 579
+Drawing to 876, 579
+Drawing to 876, 578
+Drawing to 876, 578
+Drawing to 877, 578
+Drawing to 877, 578
+Drawing to 877, 578
+Drawing to 878, 578
+Drawing to 879, 577
+Drawing to 879, 577
+Drawing to 880, 577
+Drawing to 880, 577
+Drawing to 881, 577
+Drawing to 883, 576
+Drawing to 883, 576
+Drawing to 884, 576
+Drawing to 884, 576
+Drawing to 885, 576
+Drawing to 885, 576
+Drawing to 886, 575
+Drawing to 887, 575
+Drawing to 887, 574
+Drawing to 888, 574
+Drawing to 888, 574
+Drawing to 890, 574
+Drawing to 890, 573
+Drawing to 891, 573
+Drawing to 892, 573
+Drawing to 893, 573
+Drawing to 894, 572
+Drawing to 894, 572
+Drawing to 895, 572
+Drawing to 895, 572
+Drawing to 896, 572
+Drawing to 896, 572
+Drawing to 897, 571
+Drawing to 898, 571
+Drawing to 899, 570
+Drawing to 899, 570
+Drawing to 900, 570
+Drawing to 901, 570
+Drawing to 902, 569
+Drawing to 902, 569
+Drawing to 903, 569
+Drawing to 905, 569
+Drawing to 905, 568
+Drawing to 906, 568
+Drawing to 907, 568
+Drawing to 907, 567
+Drawing to 908, 567
+Drawing to 909, 567
+Drawing to 909, 566
+Drawing to 910, 566
+Drawing to 911, 566
+Drawing to 913, 565
+Drawing to 913, 565
+Drawing to 914, 565
+Drawing to 914, 565
+Drawing to 915, 565
+Drawing to 915, 564
+Drawing to 916, 564
+Drawing to 916, 564
+Drawing to 917, 564
+Drawing to 918, 563
+Drawing to 919, 562
+Drawing to 919, 562
+Drawing to 920, 562
+Drawing to 921, 562
+Drawing to 922, 561
+Drawing to 922, 561
+Drawing to 923, 561
+Drawing to 923, 560
+Drawing to 924, 560
+Drawing to 925, 560
+Drawing to 925, 560
+Drawing to 926, 560
+Drawing to 926, 560
+Drawing to 927, 559
+Drawing to 928, 558
+Drawing to 929, 558
+Drawing to 929, 558
+Drawing to 930, 558
+Drawing to 930, 558
+Drawing to 931, 558
+Drawing to 931, 557
+Drawing to 932, 557
+Drawing to 933, 557
+Drawing to 933, 557
+Drawing to 934, 557
+Drawing to 935, 556
+Drawing to 936, 556
+Drawing to 937, 556
+Drawing to 937, 555
+Drawing to 938, 555
+Drawing to 938, 555
+Drawing to 939, 555
+Drawing to 939, 554
+Drawing to 940, 554
+Drawing to 940, 554
+Drawing to 941, 554
+Drawing to 942, 554
+Drawing to 942, 553
+Drawing to 943, 553
+Drawing to 944, 553
+Drawing to 944, 553
+Drawing to 945, 553
+Drawing to 946, 552
+Drawing to 947, 552
+Drawing to 947, 552
+Drawing to 948, 552
+Drawing to 949, 552
+Drawing to 949, 551
+Drawing to 950, 551
+Drawing to 950, 550
+Drawing to 951, 550
+Drawing to 952, 550
+Drawing to 953, 550
+Drawing to 954, 549
+Drawing to 954, 549
+Drawing to 955, 549
+Drawing to 955, 549
+Drawing to 956, 549
+Drawing to 957, 549
+Drawing to 957, 548
+Drawing to 957, 548
+Drawing to 958, 548
+Drawing to 958, 548
+Drawing to 958, 548
+Drawing to 959, 547
+Drawing to 959, 547
+Drawing to 960, 547
+Drawing to 960, 546
+Drawing to 961, 546
+Drawing to 961, 546
+Drawing to 962, 546
+Drawing to 962, 546
+Drawing to 963, 545
+Drawing to 963, 545
+Drawing to 964, 545
+Drawing to 964, 544
+Drawing to 965, 544
+Drawing to 966, 544
+Drawing to 966, 544
+Drawing to 967, 544
+Drawing to 967, 544
+Drawing to 967, 543
+Drawing to 968, 543
+Drawing to 968, 542
+Drawing to 969, 542
+Drawing to 970, 542
+Drawing to 970, 542
+Drawing to 971, 542
+Drawing to 971, 541
+Drawing to 972, 541
+Drawing to 972, 541
+Drawing to 973, 541
+Drawing to 974, 541
+Drawing to 974, 540
+Drawing to 975, 540
+Drawing to 975, 540
+Drawing to 976, 540
+Drawing to 976, 539
+Drawing to 977, 539
+Drawing to 978, 539
+Drawing to 978, 538
+Drawing to 979, 538
+Drawing to 980, 538
+Drawing to 980, 537
+Drawing to 980, 537
+Drawing to 981, 537
+Drawing to 982, 537
+Drawing to 982, 537
+Drawing to 982, 537
+Drawing to 983, 537
+Drawing to 983, 536
+Drawing to 984, 536
+Drawing to 984, 536
+Drawing to 986, 535
+Drawing to 986, 535
+Drawing to 987, 535
+Drawing to 987, 534
+Drawing to 988, 534
+Drawing to 988, 534
+Drawing to 989, 534
+Drawing to 989, 533
+Drawing to 990, 533
+Drawing to 990, 533
+Drawing to 991, 533
+Drawing to 991, 532
+Drawing to 992, 532
+Drawing to 992, 532
+Drawing to 993, 532
+Drawing to 994, 532
+Drawing to 994, 531
+Drawing to 995, 531
+Drawing to 995, 531
+Drawing to 995, 531
+Drawing to 996, 531
+Drawing to 996, 530
+Drawing to 997, 530
+Drawing to 997, 529
+Drawing to 998, 529
+Drawing to 999, 529
+Drawing to 999, 529
+Drawing to 1000, 528
+Drawing to 1000, 528
+Drawing to 1001, 528
+Drawing to 1001, 528
+Drawing to 1001, 527
+Drawing to 1002, 527
+Drawing to 1003, 527
+Drawing to 1003, 527
+Drawing to 1004, 527
+Drawing to 1004, 526
+Drawing to 1005, 525
+Drawing to 1005, 525
+Drawing to 1006, 525
+Drawing to 1007, 525
+Drawing to 1007, 524
+Drawing to 1008, 524
+Drawing to 1008, 524
+Drawing to 1009, 524
+Drawing to 1009, 524
+Drawing to 1009, 523
+Drawing to 1010, 523
+Drawing to 1011, 523
+Drawing to 1011, 523
+Drawing to 1011, 522
+Drawing to 1012, 522
+Drawing to 1012, 522
+Drawing to 1013, 521
+Drawing to 1013, 521
+Drawing to 1014, 521
+Drawing to 1015, 521
+Drawing to 1015, 520
+Drawing to 1016, 520
+Drawing to 1016, 520
+Drawing to 1016, 520
+Drawing to 1017, 520
+Drawing to 1017, 519
+Drawing to 1018, 519
+Drawing to 1019, 519
+Drawing to 1019, 519
+Drawing to 1020, 518
+Drawing to 1020, 518
+Drawing to 1021, 517
+Drawing to 1021, 517
+Drawing to 1022, 517
+Drawing to 1023, 517
+Drawing to 1023, 517
+Drawing to 1023, 516
+Drawing to 1024, 516
+Drawing to 1024, 516
+Drawing to 1025, 516
+Drawing to 1025, 515
+Drawing to 1026, 515
+Drawing to 1027, 515
+Drawing to 1027, 515
+Drawing to 1028, 514
+Drawing to 1028, 514
+Drawing to 1029, 514
+Drawing to 1029, 513
+Drawing to 1029, 513
+Drawing to 1030, 513
+Drawing to 1030, 513
+Drawing to 1031, 513
+Drawing to 1032, 513
+Drawing to 1032, 512
+Drawing to 1033, 512
+Drawing to 1033, 512
+Drawing to 1034, 512
+Drawing to 1034, 511
+Drawing to 1034, 511
+Drawing to 1035, 511
+Drawing to 1036, 511
+Drawing to 1036, 511
+Drawing to 1037, 510
+Drawing to 1037, 510
+Drawing to 1037, 509
+Drawing to 1038, 509
+Drawing to 1039, 509
+Drawing to 1040, 509
+Drawing to 1040, 509
+Drawing to 1041, 509
+Drawing to 1041, 508
+Drawing to 1042, 508
+Drawing to 1042, 508
+Drawing to 1042, 508
+Drawing to 1043, 507
+Drawing to 1044, 507
+Drawing to 1044, 507
+Drawing to 1044, 507
+Drawing to 1045, 507
+Drawing to 1045, 506
+Drawing to 1045, 506
+Drawing to 1046, 506
+Drawing to 1046, 505
+Drawing to 1047, 505
+Drawing to 1047, 505
+Drawing to 1048, 505
+Drawing to 1048, 505
+Drawing to 1049, 504
+Drawing to 1049, 504
+Drawing to 1049, 504
+Drawing to 1050, 504
+Drawing to 1050, 503
+Drawing to 1051, 503
+Drawing to 1052, 503
+Drawing to 1052, 503
+Drawing to 1052, 502
+Drawing to 1053, 502
+Drawing to 1053, 502
+Drawing to 1053, 502
+Drawing to 1054, 502
+Drawing to 1054, 501
+Drawing to 1055, 501
+Drawing to 1056, 501
+Drawing to 1056, 500
+Drawing to 1057, 500
+Drawing to 1057, 500
+Drawing to 1058, 499
+Drawing to 1058, 499
+Drawing to 1059, 499
+Drawing to 1060, 499
+Drawing to 1060, 498
+Drawing to 1061, 498
+Drawing to 1061, 498
+Drawing to 1062, 498
+Drawing to 1063, 497
+Drawing to 1063, 496
+Drawing to 1064, 496
+Drawing to 1065, 496
+Drawing to 1065, 496
+Drawing to 1065, 496
+Drawing to 1066, 496
+Drawing to 1066, 495
+Drawing to 1067, 495
+Drawing to 1067, 495
+Drawing to 1068, 495
+Drawing to 1069, 494
+Drawing to 1069, 494
+Drawing to 1069, 494
+Drawing to 1070, 494
+Drawing to 1070, 494
+Drawing to 1071, 493
+Drawing to 1071, 493
+Drawing to 1072, 493
+Drawing to 1073, 492
+Drawing to 1073, 492
+Drawing to 1074, 492
+Drawing to 1074, 491
+Drawing to 1075, 491
+Drawing to 1075, 491
+Drawing to 1076, 491
+Drawing to 1077, 491
+Drawing to 1077, 490
+Drawing to 1077, 490
+Drawing to 1078, 490
+Drawing to 1079, 489
+Drawing to 1079, 489
+Drawing to 1080, 488
+Drawing to 1081, 488
+Drawing to 1082, 487
+Drawing to 1083, 487
+Drawing to 1083, 486
+Drawing to 1084, 486
+Drawing to 1085, 486
+Drawing to 1085, 486
+Drawing to 1086, 485
+Drawing to 1086, 485
+Drawing to 1087, 484
+Drawing to 1087, 484
+Drawing to 1089, 483
+Drawing to 1089, 483
+Drawing to 1090, 483
+Drawing to 1090, 482
+Drawing to 1091, 482
+Drawing to 1092, 481
+Drawing to 1092, 480
+Drawing to 1093, 480
+Drawing to 1094, 480
+Drawing to 1094, 479
+Drawing to 1095, 479
+Drawing to 1097, 478
+Drawing to 1098, 477
+Drawing to 1099, 476
+Drawing to 1101, 476
+Drawing to 1101, 476
+Drawing to 1102, 475
+Drawing to 1102, 475
+Drawing to 1102, 475
+Drawing to 1103, 475
+Drawing to 1103, 474
+Drawing to 1105, 474
+Drawing to 1106, 473
+Drawing to 1108, 472
+Drawing to 1110, 471
+Drawing to 1110, 471
+Drawing to 1112, 470
+Drawing to 1113, 469
+Drawing to 1114, 469
+Drawing to 1114, 469
+Drawing to 1115, 468
+Drawing to 1115, 468
+Drawing to 1116, 468
+Drawing to 1116, 467
+Drawing to 1118, 467
+Drawing to 1119, 466
+Drawing to 1120, 466
+Drawing to 1120, 465
+Drawing to 1121, 465
+Drawing to 1122, 465
+Drawing to 1122, 464
+Drawing to 1122, 464
+Drawing to 1124, 463
+Drawing to 1124, 462
+Drawing to 1125, 462
+Drawing to 1126, 462
+Drawing to 1126, 462
+Drawing to 1127, 461
+Drawing to 1127, 461
+Drawing to 1128, 460
+Drawing to 1129, 460
+Drawing to 1130, 459
+Drawing to 1130, 459
+Drawing to 1131, 458
+Drawing to 1132, 458
+Drawing to 1133, 458
+Drawing to 1135, 457
+Drawing to 1135, 457
+Drawing to 1136, 456
+Drawing to 1136, 456
+Drawing to 1137, 455
+Drawing to 1138, 455
+Drawing to 1138, 455
+Drawing to 1139, 454
+Drawing to 1140, 454
+Drawing to 1141, 453
+Drawing to 1143, 453
+Drawing to 1143, 452
+Drawing to 1144, 452
+Drawing to 1146, 450
+Drawing to 1147, 450
+Drawing to 1147, 450
+Drawing to 1148, 449
+Drawing to 1148, 449
+Drawing to 1149, 449
+Drawing to 1149, 449
+Drawing to 1149, 448
+Drawing to 1151, 447
+Drawing to 1152, 447
+Drawing to 1152, 447
+Drawing to 1152, 446
+Drawing to 1153, 446
+Drawing to 1154, 446
+Drawing to 1154, 445
+Drawing to 1155, 445
+Drawing to 1155, 445
+Drawing to 1156, 445
+Drawing to 1156, 444
+Drawing to 1157, 443
+Drawing to 1158, 443
+Drawing to 1159, 442
+Drawing to 1159, 442
+Drawing to 1160, 442
+Drawing to 1160, 442
+Drawing to 1160, 441
+Drawing to 1161, 441
+Drawing to 1161, 441
+Drawing to 1162, 440
+Drawing to 1163, 439
+Drawing to 1164, 439
+Drawing to 1164, 439
+Drawing to 1164, 438
+Drawing to 1165, 438
+Drawing to 1165, 438
+Drawing to 1166, 438
+Drawing to 1166, 437
+Drawing to 1167, 437
+Drawing to 1167, 437
+Drawing to 1168, 436
+Drawing to 1168, 436
+Drawing to 1169, 436
+Drawing to 1169, 435
+Drawing to 1170, 435
+Drawing to 1170, 434
+Drawing to 1171, 434
+Drawing to 1171, 434
+Drawing to 1172, 434
+Drawing to 1173, 433
+Drawing to 1173, 433
+Drawing to 1173, 433
+Drawing to 1174, 432
+Drawing to 1174, 432
+Drawing to 1175, 432
+Drawing to 1176, 431
+Drawing to 1176, 431
+Drawing to 1177, 430
+Drawing to 1178, 430
+Drawing to 1178, 429
+Drawing to 1179, 429
+Drawing to 1179, 429
+Drawing to 1180, 429
+Drawing to 1180, 428
+Drawing to 1181, 428
+Drawing to 1182, 427
+Drawing to 1182, 427
+Drawing to 1183, 426
+Drawing to 1184, 425
+Drawing to 1185, 425
+Drawing to 1185, 425
+Drawing to 1186, 424
+Drawing to 1186, 424
+Drawing to 1187, 424
+Drawing to 1188, 423
+Drawing to 1188, 423
+Drawing to 1189, 422
+Drawing to 1189, 422
+Drawing to 1190, 422
+Drawing to 1190, 421
+Drawing to 1191, 421
+Drawing to 1191, 421
+Drawing to 1192, 420
+Drawing to 1192, 420
+Drawing to 1192, 420
+Drawing to 1193, 420
+Drawing to 1193, 419
+Drawing to 1194, 418
+Drawing to 1194, 418
+Drawing to 1195, 418
+Drawing to 1195, 417
+Drawing to 1196, 417
+Drawing to 1196, 417
+Drawing to 1196, 417
+Drawing to 1197, 416
+Drawing to 1197, 416
+Drawing to 1197, 416
+Drawing to 1198, 416
+Drawing to 1198, 415
+Drawing to 1198, 414
+Drawing to 1199, 414
+Drawing to 1200, 414
+Drawing to 1200, 414
+Drawing to 1201, 413
+Drawing to 1201, 413
+Drawing to 1202, 412
+Drawing to 1202, 412
+Drawing to 1202, 412
+Drawing to 1203, 411
+Drawing to 1204, 411
+Drawing to 1204, 410
+Drawing to 1204, 410
+Drawing to 1205, 410
+Drawing to 1205, 410
+Drawing to 1205, 409
+Drawing to 1206, 409
+Drawing to 1206, 409
+Drawing to 1207, 408
+Drawing to 1207, 408
+Drawing to 1209, 407
+Drawing to 1209, 406
+Drawing to 1210, 406
+Drawing to 1210, 406
+Drawing to 1210, 406
+Drawing to 1211, 405
+Drawing to 1211, 405
+Drawing to 1212, 405
+Drawing to 1212, 404
+Drawing to 1213, 404
+Drawing to 1213, 404
+Drawing to 1213, 404
+Drawing to 1214, 404
+Drawing to 1214, 403
+Drawing to 1214, 403
+Drawing to 1215, 403
+Drawing to 1215, 402
+Drawing to 1215, 402
+Drawing to 1215, 401
+Drawing to 1216, 401
+Drawing to 1217, 401
+Drawing to 1217, 400
+Drawing to 1218, 400
+Drawing to 1218, 400
+Drawing to 1218, 400
+Drawing to 1219, 399
+Drawing to 1220, 398
+Drawing to 1221, 398
+Drawing to 1221, 397
+Drawing to 1221, 397
+Drawing to 1222, 396
+Drawing to 1222, 396
+Drawing to 1223, 396
+Drawing to 1223, 395
+Drawing to 1224, 395
+Drawing to 1224, 395
+Drawing to 1225, 395
+Drawing to 1225, 395
+Drawing to 1225, 394
+Drawing to 1226, 394
+Drawing to 1226, 393
+Drawing to 1227, 393
+Drawing to 1227, 393
+Drawing to 1228, 392
+Drawing to 1229, 392
+Drawing to 1229, 392
+Drawing to 1229, 391
+Drawing to 1230, 391
+Drawing to 1230, 391
+Drawing to 1230, 390
+Drawing to 1231, 390
+Drawing to 1231, 390
+Drawing to 1231, 389
+Drawing to 1232, 389
+Entering CaptureFrames function
+Recording started with region: 669, 389, 1232, 700
+Hotkey Win+Shift+V detected
+Recording stopped. Frames captured: 53
+Starting to encode and save video...
+Initializing video encoder with dimensions: 562x310
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 562x310
+Exiting CaptureFrames function. Frames captured: 53
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+FFmpeg: profile High, level 3.0, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=10 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+FFmpeg: frame=   0 QP=18.00 NAL=3 Slice:I Poc:0   I:720  P:0    SKIP:0    size=81 bytes
+
+FFmpeg: frame=   1 QP=18.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:720  size=18 bytes
+
+FFmpeg: frame=   2 QP=21.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=   3 QP=22.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=   4 QP=22.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=   5 QP=18.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:720  size=24 bytes
+
+FFmpeg: frame=   6 QP=20.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=   7 QP=22.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=   8 QP=21.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=   9 QP=21.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:720  size=23 bytes
+
+FFmpeg: frame=  10 QP=21.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  11 QP=21.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:720  size=16 bytes
+
+FFmpeg: frame=  12 QP=15.00 NAL=3 Slice:I Poc:0   I:720  P:0    SKIP:0    size=81 bytes
+
+FFmpeg: frame=  13 QP=9.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:720  size=20 bytes
+
+FFmpeg: frame=  14 QP=11.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  15 QP=13.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  16 QP=13.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  17 QP=1.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  18 QP=7.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  19 QP=11.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  20 QP=7.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:720  size=17 bytes
+
+FFmpeg: frame=  21 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  22 QP=2.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:720  size=20 bytes
+
+FFmpeg: frame=  23 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  24 QP=6.00 NAL=3 Slice:I Poc:0   I:720  P:0    SKIP:0    size=84 bytes
+
+FFmpeg: frame=  25 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:720  size=20 bytes
+
+FFmpeg: frame=  26 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  27 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  28 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  29 QP=0.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  30 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:720  size=21 bytes
+
+FFmpeg: frame=  31 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  32 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  33 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  34 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:720  size=21 bytes
+
+FFmpeg: frame=  35 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  36 QP=0.00 NAL=3 Slice:I Poc:0   I:720  P:0    SKIP:0    size=86 bytes
+
+FFmpeg: frame=  37 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:720  size=20 bytes
+
+FFmpeg: frame=  38 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  39 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  40 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  41 QP=0.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  42 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:720  size=21 bytes
+
+FFmpeg: frame=  43 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  44 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  45 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:720  size=26 bytes
+
+FFmpeg: frame=  46 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:720  size=21 bytes
+
+FFmpeg: frame=  47 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  48 QP=0.00 NAL=3 Slice:I Poc:0   I:720  P:0    SKIP:0    size=86 bytes
+
+FFmpeg: frame=  49 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:720  size=20 bytes
+
+FFmpeg: frame=  50 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  51 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame=  52 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:720  size=19 bytes
+
+FFmpeg: frame I:5     Avg QP: 7.80  size:    84
+
+FFmpeg: frame P:13    Avg QP: 5.15  size:    23
+
+FFmpeg: frame B:35    Avg QP: 6.69  size:    18
+
+FFmpeg: consecutive B-frames:  9.4%  0.0% 22.6% 67.9%
+
+FFmpeg: mb I  I16..4: 100.0%  0.0%  0.0%
+
+FFmpeg: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+
+FFmpeg: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+
+FFmpeg: final ratefactor: -1.72
+
+FFmpeg: 8x8 transform intra:0.0%
+
+FFmpeg: coded y,uvDC,uvAC intra: 0.0% 0.0% 0.0% inter: 0.0% 0.0% 0.0%
+
+FFmpeg: i16 v,h,dc,p: 95%  0%  5%  0%
+
+FFmpeg: i8c dc,h,v,p: 100%  0%  0%  0%
+
+FFmpeg: Weighted P-Frames: Y:0.0% UV:0.0%
+
+FFmpeg: kb/s:6.16
+
+FFmpeg: Statistics: 3541 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
+Screen Recorder application starting...
+Overlay window created successfully
+Application started. Press Win+Shift+V to start region selection.
+Hotkey Win+Shift+V detected
+Region selection started
+Mouse down at 521, 669
+Drawing to 521, 668
+Drawing to 521, 667
+Drawing to 521, 667
+Drawing to 522, 666
+Drawing to 522, 666
+Drawing to 522, 665
+Drawing to 522, 665
+Drawing to 522, 664
+Drawing to 523, 663
+Drawing to 523, 663
+Drawing to 523, 662
+Drawing to 523, 662
+Drawing to 524, 661
+Drawing to 524, 661
+Drawing to 525, 660
+Drawing to 525, 660
+Drawing to 525, 659
+Drawing to 526, 658
+Drawing to 526, 658
+Drawing to 526, 657
+Drawing to 527, 657
+Drawing to 527, 656
+Drawing to 527, 655
+Drawing to 528, 654
+Drawing to 528, 654
+Drawing to 528, 653
+Drawing to 529, 653
+Drawing to 530, 651
+Drawing to 530, 651
+Drawing to 531, 650
+Drawing to 531, 650
+Drawing to 531, 649
+Drawing to 532, 648
+Drawing to 533, 646
+Drawing to 534, 645
+Drawing to 534, 645
+Drawing to 538, 641
+Drawing to 540, 639
+Drawing to 540, 638
+Drawing to 541, 637
+Drawing to 542, 636
+Drawing to 542, 636
+Drawing to 543, 634
+Drawing to 544, 633
+Drawing to 544, 633
+Drawing to 545, 632
+Drawing to 546, 631
+Drawing to 548, 629
+Drawing to 549, 628
+Drawing to 551, 627
+Drawing to 551, 626
+Drawing to 552, 625
+Drawing to 552, 625
+Drawing to 554, 624
+Drawing to 555, 622
+Drawing to 556, 622
+Drawing to 558, 620
+Drawing to 559, 619
+Drawing to 560, 618
+Drawing to 562, 616
+Drawing to 563, 615
+Drawing to 565, 613
+Drawing to 565, 612
+Drawing to 566, 611
+Drawing to 567, 611
+Drawing to 569, 610
+Drawing to 569, 609
+Drawing to 570, 608
+Drawing to 571, 607
+Drawing to 573, 606
+Drawing to 575, 604
+Drawing to 576, 603
+Drawing to 577, 602
+Drawing to 578, 601
+Drawing to 582, 598
+Drawing to 583, 597
+Drawing to 584, 597
+Drawing to 586, 595
+Drawing to 586, 595
+Drawing to 587, 594
+Drawing to 591, 590
+Drawing to 593, 589
+Drawing to 595, 587
+Drawing to 597, 585
+Drawing to 598, 583
+Drawing to 600, 583
+Drawing to 600, 582
+Drawing to 602, 582
+Drawing to 603, 580
+Drawing to 604, 580
+Drawing to 605, 579
+Drawing to 607, 577
+Drawing to 609, 577
+Drawing to 611, 575
+Drawing to 611, 575
+Drawing to 612, 574
+Drawing to 615, 572
+Drawing to 615, 572
+Drawing to 616, 571
+Drawing to 617, 571
+Drawing to 618, 570
+Drawing to 618, 569
+Drawing to 621, 568
+Drawing to 622, 567
+Drawing to 623, 566
+Drawing to 624, 566
+Drawing to 624, 565
+Drawing to 626, 565
+Drawing to 626, 564
+Drawing to 629, 562
+Drawing to 630, 562
+Drawing to 631, 561
+Drawing to 633, 560
+Drawing to 636, 558
+Drawing to 637, 558
+Drawing to 640, 556
+Drawing to 641, 556
+Drawing to 642, 555
+Drawing to 647, 553
+Drawing to 647, 552
+Drawing to 649, 551
+Drawing to 649, 551
+Drawing to 654, 548
+Drawing to 655, 548
+Drawing to 658, 547
+Drawing to 658, 546
+Drawing to 659, 546
+Drawing to 660, 546
+Drawing to 663, 544
+Drawing to 665, 543
+Drawing to 669, 541
+Drawing to 670, 540
+Drawing to 671, 540
+Drawing to 672, 539
+Drawing to 673, 539
+Drawing to 674, 538
+Drawing to 676, 538
+Drawing to 676, 537
+Drawing to 679, 536
+Drawing to 680, 536
+Drawing to 681, 535
+Drawing to 685, 533
+Drawing to 686, 533
+Drawing to 691, 531
+Drawing to 692, 530
+Drawing to 693, 529
+Drawing to 695, 528
+Drawing to 696, 528
+Drawing to 698, 527
+Drawing to 700, 526
+Drawing to 701, 525
+Drawing to 703, 525
+Drawing to 704, 524
+Drawing to 709, 522
+Drawing to 710, 521
+Drawing to 712, 521
+Drawing to 712, 521
+Drawing to 713, 520
+Drawing to 715, 519
+Drawing to 719, 518
+Drawing to 721, 517
+Drawing to 722, 517
+Drawing to 724, 516
+Drawing to 727, 515
+Drawing to 728, 514
+Drawing to 730, 513
+Drawing to 731, 513
+Drawing to 732, 512
+Drawing to 734, 511
+Drawing to 736, 510
+Drawing to 739, 509
+Drawing to 739, 509
+Drawing to 741, 508
+Drawing to 744, 506
+Drawing to 745, 506
+Drawing to 745, 506
+Drawing to 746, 506
+Drawing to 747, 505
+Drawing to 751, 503
+Drawing to 752, 503
+Drawing to 752, 503
+Drawing to 753, 503
+Drawing to 753, 502
+Drawing to 754, 502
+Drawing to 754, 502
+Drawing to 755, 501
+Drawing to 757, 500
+Drawing to 758, 500
+Drawing to 759, 499
+Drawing to 759, 499
+Drawing to 762, 497
+Drawing to 764, 497
+Drawing to 765, 496
+Drawing to 766, 495
+Drawing to 766, 495
+Drawing to 767, 495
+Drawing to 769, 494
+Drawing to 770, 494
+Drawing to 771, 493
+Drawing to 772, 492
+Drawing to 772, 492
+Drawing to 775, 491
+Drawing to 776, 490
+Drawing to 777, 489
+Drawing to 778, 489
+Drawing to 778, 489
+Drawing to 780, 488
+Drawing to 780, 488
+Drawing to 781, 487
+Drawing to 784, 486
+Drawing to 785, 485
+Drawing to 787, 484
+Drawing to 787, 484
+Drawing to 789, 483
+Drawing to 793, 481
+Drawing to 794, 480
+Drawing to 795, 479
+Drawing to 796, 479
+Drawing to 798, 478
+Drawing to 799, 477
+Drawing to 800, 477
+Drawing to 805, 474
+Drawing to 806, 473
+Drawing to 808, 473
+Drawing to 814, 469
+Drawing to 816, 469
+Drawing to 817, 468
+Drawing to 819, 467
+Drawing to 820, 467
+Drawing to 821, 466
+Drawing to 823, 465
+Drawing to 826, 463
+Drawing to 827, 463
+Drawing to 829, 462
+Drawing to 831, 461
+Drawing to 833, 460
+Drawing to 836, 459
+Drawing to 836, 458
+Drawing to 838, 457
+Drawing to 839, 457
+Drawing to 840, 457
+Drawing to 841, 456
+Drawing to 842, 455
+Drawing to 844, 454
+Drawing to 845, 454
+Drawing to 847, 454
+Drawing to 851, 451
+Drawing to 852, 451
+Drawing to 854, 450
+Drawing to 858, 448
+Drawing to 859, 447
+Drawing to 861, 446
+Drawing to 862, 446
+Drawing to 863, 446
+Drawing to 868, 443
+Drawing to 869, 442
+Drawing to 872, 441
+Drawing to 873, 440
+Drawing to 875, 440
+Drawing to 877, 439
+Drawing to 878, 438
+Drawing to 879, 438
+Drawing to 881, 437
+Drawing to 882, 436
+Drawing to 884, 435
+Drawing to 885, 435
+Drawing to 889, 433
+Drawing to 890, 432
+Drawing to 892, 431
+Drawing to 893, 431
+Drawing to 894, 430
+Drawing to 900, 427
+Drawing to 902, 427
+Drawing to 903, 426
+Drawing to 905, 425
+Drawing to 906, 425
+Drawing to 910, 423
+Drawing to 911, 422
+Drawing to 912, 422
+Drawing to 914, 421
+Drawing to 915, 420
+Drawing to 917, 420
+Drawing to 919, 419
+Drawing to 920, 418
+Drawing to 925, 416
+Drawing to 926, 415
+Drawing to 928, 415
+Drawing to 929, 415
+Drawing to 930, 414
+Drawing to 933, 413
+Drawing to 936, 411
+Drawing to 940, 409
+Drawing to 941, 409
+Drawing to 943, 408
+Drawing to 944, 408
+Drawing to 947, 407
+Drawing to 948, 406
+Drawing to 949, 405
+Drawing to 950, 405
+Drawing to 951, 405
+Drawing to 956, 402
+Drawing to 957, 401
+Drawing to 958, 401
+Drawing to 959, 401
+Drawing to 960, 400
+Drawing to 961, 399
+Drawing to 962, 399
+Drawing to 966, 397
+Drawing to 968, 397
+Drawing to 969, 396
+Drawing to 970, 396
+Drawing to 973, 395
+Drawing to 974, 394
+Drawing to 976, 393
+Drawing to 977, 392
+Drawing to 978, 392
+Drawing to 980, 392
+Drawing to 980, 391
+Drawing to 982, 391
+Drawing to 985, 389
+Drawing to 985, 389
+Drawing to 990, 387
+Drawing to 990, 387
+Drawing to 993, 385
+Drawing to 994, 385
+Drawing to 995, 385
+Drawing to 996, 384
+Drawing to 997, 384
+Drawing to 998, 383
+Drawing to 1000, 382
+Drawing to 1002, 381
+Drawing to 1006, 380
+Drawing to 1008, 379
+Drawing to 1009, 379
+Drawing to 1010, 378
+Drawing to 1011, 377
+Drawing to 1012, 377
+Drawing to 1013, 377
+Drawing to 1015, 376
+Drawing to 1018, 375
+Drawing to 1020, 374
+Drawing to 1021, 374
+Drawing to 1024, 373
+Drawing to 1024, 372
+Drawing to 1027, 371
+Drawing to 1028, 371
+Drawing to 1030, 370
+Drawing to 1031, 370
+Drawing to 1033, 369
+Drawing to 1036, 368
+Drawing to 1042, 366
+Drawing to 1043, 366
+Drawing to 1046, 364
+Drawing to 1050, 363
+Drawing to 1052, 363
+Drawing to 1053, 362
+Drawing to 1055, 361
+Drawing to 1059, 360
+Drawing to 1060, 360
+Drawing to 1066, 357
+Drawing to 1068, 356
+Drawing to 1071, 356
+Drawing to 1073, 355
+Drawing to 1075, 354
+Drawing to 1078, 353
+Drawing to 1079, 353
+Drawing to 1080, 352
+Drawing to 1084, 351
+Drawing to 1085, 350
+Drawing to 1093, 348
+Drawing to 1095, 347
+Drawing to 1096, 347
+Drawing to 1098, 347
+Drawing to 1100, 346
+Drawing to 1102, 345
+Drawing to 1103, 345
+Drawing to 1106, 343
+Drawing to 1108, 342
+Drawing to 1109, 342
+Drawing to 1115, 340
+Drawing to 1117, 340
+Drawing to 1120, 338
+Drawing to 1122, 338
+Drawing to 1123, 337
+Drawing to 1125, 336
+Drawing to 1127, 336
+Drawing to 1128, 335
+Drawing to 1131, 334
+Drawing to 1134, 333
+Drawing to 1136, 333
+Drawing to 1143, 330
+Drawing to 1146, 328
+Drawing to 1148, 328
+Drawing to 1150, 327
+Drawing to 1151, 327
+Drawing to 1154, 326
+Drawing to 1158, 325
+Drawing to 1159, 324
+Drawing to 1161, 323
+Drawing to 1166, 321
+Drawing to 1169, 321
+Drawing to 1174, 319
+Drawing to 1175, 319
+Drawing to 1178, 318
+Drawing to 1179, 317
+Drawing to 1180, 316
+Drawing to 1182, 316
+Drawing to 1184, 316
+Drawing to 1186, 314
+Drawing to 1188, 314
+Drawing to 1192, 312
+Drawing to 1196, 311
+Drawing to 1196, 310
+Drawing to 1199, 310
+Drawing to 1200, 309
+Drawing to 1201, 309
+Drawing to 1202, 308
+Drawing to 1204, 308
+Drawing to 1204, 308
+Drawing to 1205, 307
+Drawing to 1208, 306
+Drawing to 1209, 305
+Drawing to 1210, 305
+Drawing to 1211, 304
+Drawing to 1214, 303
+Drawing to 1216, 302
+Drawing to 1217, 301
+Drawing to 1218, 301
+Drawing to 1218, 301
+Drawing to 1219, 300
+Drawing to 1220, 299
+Drawing to 1220, 299
+Drawing to 1224, 298
+Drawing to 1226, 297
+Drawing to 1228, 295
+Drawing to 1229, 295
+Drawing to 1230, 294
+Drawing to 1231, 294
+Drawing to 1232, 293
+Drawing to 1233, 292
+Drawing to 1234, 291
+Drawing to 1236, 290
+Drawing to 1236, 290
+Drawing to 1237, 290
+Drawing to 1239, 289
+Drawing to 1240, 288
+Drawing to 1240, 288
+Drawing to 1241, 288
+Drawing to 1241, 287
+Drawing to 1243, 287
+Drawing to 1243, 287
+Drawing to 1244, 286
+Drawing to 1244, 285
+Drawing to 1244, 285
+Drawing to 1245, 285
+Drawing to 1245, 285
+Entering CaptureFrames function
+Recording started with region: 521, 285, 1245, 669
+Hotkey Win+Shift+V detected
+Recording stopped. Frames captured: 62
+Starting to encode and save video...
+Initializing video encoder with dimensions: 724x384
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 724x384
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+FFmpeg: profile High, level 3.0, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+Exiting CaptureFrames function. Frames captured: 63
+FFmpeg: frame=   0 QP=20.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=97 bytes
+
+FFmpeg: frame=   1 QP=20.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=   2 QP=22.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=   3 QP=24.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=   4 QP=24.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=   5 QP=20.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1104 size=26 bytes
+
+FFmpeg: frame=   6 QP=22.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:1104 size=20 bytes
+
+FFmpeg: frame=   7 QP=24.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=   8 QP=23.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=   9 QP=23.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1104 size=25 bytes
+
+FFmpeg: frame=  10 QP=23.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:1104 size=20 bytes
+
+FFmpeg: frame=  11 QP=23.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  12 QP=17.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=99 bytes
+
+FFmpeg: frame=  13 QP=11.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:1104 size=22 bytes
+
+FFmpeg: frame=  14 QP=13.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  15 QP=15.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  16 QP=15.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  17 QP=3.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  18 QP=9.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  19 QP=13.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  20 QP=9.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:1104 size=19 bytes
+
+FFmpeg: frame=  21 QP=1.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  22 QP=5.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:1104 size=22 bytes
+
+FFmpeg: frame=  23 QP=3.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:1104 size=20 bytes
+
+FFmpeg: frame=  24 QP=8.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=103 bytes
+
+FFmpeg: frame=  25 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  26 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  27 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  28 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  29 QP=0.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  30 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  31 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  32 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  33 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  34 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  35 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  36 QP=0.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=104 bytes
+
+FFmpeg: frame=  37 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  38 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  39 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  40 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  41 QP=0.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  42 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  43 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  44 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  45 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  46 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  47 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  48 QP=0.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=104 bytes
+
+FFmpeg: frame=  49 QP=0.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  50 QP=0.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  51 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  52 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  53 QP=0.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  54 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  55 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  56 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  57 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1104 size=29 bytes
+
+FFmpeg: frame=  58 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  59 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame=  60 QP=0.00 NAL=3 Slice:I Poc:0   I:1104 P:0    SKIP:0    size=104 bytes
+
+FFmpeg: frame=  61 QP=0.00 NAL=2 Slice:P Poc:4   I:0    P:0    SKIP:1104 size=23 bytes
+
+FFmpeg: frame=  62 QP=0.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:1104 size=21 bytes
+
+FFmpeg: frame I:6     Avg QP: 7.50  size:   102
+
+FFmpeg: frame P:16    Avg QP: 4.88  size:    26
+
+FFmpeg: frame B:41    Avg QP: 6.51  size:    21
+
+FFmpeg: consecutive B-frames:  9.5%  3.2% 23.8% 63.5%
+
+FFmpeg: mb I  I16..4: 100.0%  0.0%  0.0%
+
+FFmpeg: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+
+FFmpeg: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+
+FFmpeg: final ratefactor: -0.99
+
+FFmpeg: 8x8 transform intra:0.0%
+
+FFmpeg: coded y,uvDC,uvAC intra: 0.0% 0.0% 0.0% inter: 0.0% 0.0% 0.0%
+
+FFmpeg: i16 v,h,dc,p: 96%  0%  4%  0%
+
+FFmpeg: i8c dc,h,v,p: 100%  0%  0%  0%
+
+FFmpeg: Weighted P-Frames: Y:0.0% UV:0.0%
+
+FFmpeg: kb/s:7.15
+
+FFmpeg: Statistics: 4173 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
+Hotkey Win+Shift+V detected
+Region selection started
+Mouse down at 808, 683
+Drawing to 808, 682
+Drawing to 808, 682
+Drawing to 809, 681
+Drawing to 809, 681
+Drawing to 809, 680
+Drawing to 809, 679
+Drawing to 810, 679
+Drawing to 810, 678
+Drawing to 810, 678
+Drawing to 811, 677
+Drawing to 813, 674
+Drawing to 815, 671
+Drawing to 816, 670
+Drawing to 819, 665
+Drawing to 820, 664
+Drawing to 822, 663
+Drawing to 823, 660
+Drawing to 825, 659
+Drawing to 828, 655
+Drawing to 830, 653
+Drawing to 831, 652
+Drawing to 834, 649
+Drawing to 836, 647
+Drawing to 837, 645
+Drawing to 840, 642
+Drawing to 842, 640
+Drawing to 848, 634
+Drawing to 851, 631
+Drawing to 853, 629
+Drawing to 855, 627
+Drawing to 857, 625
+Drawing to 859, 622
+Drawing to 872, 610
+Drawing to 874, 609
+Drawing to 879, 604
+Drawing to 881, 602
+Drawing to 888, 595
+Drawing to 890, 592
+Drawing to 893, 590
+Drawing to 895, 588
+Drawing to 899, 584
+Drawing to 901, 582
+Drawing to 905, 579
+Drawing to 907, 577
+Drawing to 909, 575
+Drawing to 912, 572
+Drawing to 914, 571
+Drawing to 916, 568
+Drawing to 918, 566
+Drawing to 925, 560
+Drawing to 927, 558
+Drawing to 929, 557
+Drawing to 935, 550
+Drawing to 937, 549
+Drawing to 938, 548
+Drawing to 939, 547
+Drawing to 941, 545
+Drawing to 941, 545
+Drawing to 943, 543
+Drawing to 943, 542
+Drawing to 944, 541
+Drawing to 945, 541
+Drawing to 946, 539
+Drawing to 946, 539
+Drawing to 947, 538
+Drawing to 948, 537
+Drawing to 949, 536
+Drawing to 949, 535
+Drawing to 951, 534
+Drawing to 952, 533
+Drawing to 952, 533
+Drawing to 953, 532
+Drawing to 953, 531
+Drawing to 953, 531
+Drawing to 954, 530
+Drawing to 954, 529
+Drawing to 954, 529
+Drawing to 955, 528
+Drawing to 956, 527
+Drawing to 956, 526
+Drawing to 957, 525
+Drawing to 957, 525
+Drawing to 957, 524
+Drawing to 958, 523
+Drawing to 958, 523
+Drawing to 958, 522
+Drawing to 958, 522
+Drawing to 958, 521
+Drawing to 959, 521
+Drawing to 960, 520
+Drawing to 960, 519
+Entering CaptureFrames function
+Recording started with region: 808, 519, 960, 683
+Hotkey Win+Shift+V detected
+Recording stopped. Frames captured: 24
+Starting to encode and save video...
+Initializing video encoder with dimensions: 152x164
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 152x164
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+FFmpeg: profile High, level 1.3, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=5 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+FFmpeg: frame=   0 QP=15.96 NAL=3 Slice:I Poc:0   I:110  P:0    SKIP:0    size=355 bytes
+
+FFmpeg: frame=   1 QP=10.00 NAL=2 Slice:P Poc:8   I:0    P:0    SKIP:110  size=16 bytes
+
+Exiting CaptureFrames function. Frames captured: 24
+FFmpeg: frame=   2 QP=12.00 NAL=2 Slice:B Poc:4   I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=   3 QP=14.00 NAL=0 Slice:B Poc:2   I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=   4 QP=14.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=   5 QP=13.09 NAL=2 Slice:P Poc:16  I:0    P:3    SKIP:107  size=45 bytes
+
+FFmpeg: frame=   6 QP=10.00 NAL=2 Slice:B Poc:12  I:0    P:1    SKIP:109  size=17 bytes
+
+FFmpeg: frame=   7 QP=13.00 NAL=0 Slice:B Poc:10  I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=   8 QP=11.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=   9 QP=11.26 NAL=2 Slice:P Poc:22  I:16   P:10   SKIP:84   size=156 bytes
+
+FFmpeg: frame=  10 QP=7.00 NAL=2 Slice:B Poc:18  I:0    P:12   SKIP:98   size=30 bytes
+
+FFmpeg: frame=  11 QP=4.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:110  size=13 bytes
+
+FFmpeg: frame=  12 QP=5.79 NAL=3 Slice:I Poc:0   I:110  P:0    SKIP:0    size=469 bytes
+
+FFmpeg: frame=  13 QP=2.95 NAL=2 Slice:P Poc:8   I:16   P:11   SKIP:83   size=472 bytes
+
+FFmpeg: frame=  14 QP=2.95 NAL=2 Slice:B Poc:4   I:0    P:19   SKIP:91   size=85 bytes
+
+FFmpeg: frame=  15 QP=2.13 NAL=0 Slice:B Poc:2   I:0    P:12   SKIP:98   size=56 bytes
+
+FFmpeg: frame=  16 QP=0.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:110  size=14 bytes
+
+FFmpeg: frame=  17 QP=2.36 NAL=2 Slice:P Poc:16  I:0    P:4    SKIP:106  size=72 bytes
+
+FFmpeg: frame=  18 QP=0.00 NAL=2 Slice:B Poc:12  I:0    P:2    SKIP:108  size=22 bytes
+
+FFmpeg: frame=  19 QP=0.00 NAL=0 Slice:B Poc:10  I:0    P:2    SKIP:108  size=21 bytes
+
+FFmpeg: frame=  20 QP=0.00 NAL=0 Slice:B Poc:14  I:0    P:0    SKIP:110  size=14 bytes
+
+FFmpeg: frame=  21 QP=0.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:110  size=23 bytes
+
+FFmpeg: frame=  22 QP=0.00 NAL=2 Slice:B Poc:18  I:0    P:0    SKIP:110  size=16 bytes
+
+FFmpeg: frame=  23 QP=0.00 NAL=0 Slice:B Poc:20  I:0    P:0    SKIP:110  size=14 bytes
+
+FFmpeg: frame I:2     Avg QP:10.88  size:   412
+
+FFmpeg: frame P:6     Avg QP: 6.61  size:   131
+
+FFmpeg: frame B:16    Avg QP: 5.63  size:    23
+
+FFmpeg: consecutive B-frames:  8.3%  0.0% 25.0% 66.7%
+
+FFmpeg: mb I  I16..4: 76.4% 13.6% 10.0%
+
+FFmpeg: mb P  I16..4:  4.8%  0.0%  0.0%  P16..4:  3.8%  0.3%  0.2%  0.0%  0.0%    skip:90.9%
+
+FFmpeg: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  1.4%  0.0%  0.0%  direct: 1.3%  skip:97.3%  L0: 0.0% L1:100.0% BI: 0.0%
+
+FFmpeg: final ratefactor: -1.61
+
+FFmpeg: 8x8 transform intra:11.9% inter:11.1%
+
+FFmpeg: coded y,uvDC,uvAC intra: 3.3% 8.7% 6.3% inter: 0.4% 2.0% 1.8%
+
+FFmpeg: i16 v,h,dc,p: 66% 24% 10%  0%
+
+FFmpeg: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0% 95%  5%  0%  0%  0%  0%  0%  0%
+
+FFmpeg: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 37% 33% 24%  0%  0%  2%  1%  1%  1%
+
+FFmpeg: i8c dc,h,v,p: 78% 12% 10%  0%
+
+FFmpeg: Weighted P-Frames: Y:0.0% UV:0.0%
+
+FFmpeg: ref P L0: 97.3%  2.7%
+
+FFmpeg: kb/s:19.75
+
+FFmpeg: Statistics: 3809 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
+Hotkey Win+Shift+V detected
+Region selection started
+Mouse down at 86, 742
+Drawing to 85, 742
+Drawing to 85, 743
+Drawing to 85, 743
+Drawing to 85, 742
+Drawing to 85, 741
+Drawing to 85, 741
+Drawing to 85, 740
+Drawing to 85, 740
+Drawing to 85, 739
+Drawing to 86, 739
+Drawing to 86, 739
+Drawing to 86, 738
+Drawing to 87, 737
+Drawing to 87, 737
+Drawing to 88, 736
+Drawing to 88, 736
+Drawing to 89, 735
+Drawing to 89, 735
+Drawing to 90, 734
+Drawing to 90, 733
+Drawing to 91, 732
+Drawing to 92, 730
+Drawing to 93, 730
+Drawing to 95, 728
+Drawing to 96, 727
+Drawing to 100, 723
+Drawing to 100, 723
+Drawing to 102, 722
+Drawing to 112, 713
+Drawing to 113, 712
+Drawing to 115, 710
+Drawing to 117, 709
+Drawing to 118, 708
+Drawing to 119, 707
+Drawing to 122, 706
+Drawing to 124, 704
+Drawing to 126, 703
+Drawing to 128, 701
+Drawing to 129, 700
+Drawing to 131, 698
+Drawing to 133, 697
+Drawing to 144, 690
+Drawing to 145, 690
+Drawing to 157, 682
+Drawing to 160, 680
+Drawing to 163, 680
+Drawing to 165, 678
+Drawing to 168, 677
+Drawing to 170, 675
+Drawing to 177, 672
+Drawing to 182, 669
+Drawing to 186, 667
+Drawing to 190, 665
+Drawing to 195, 664
+Drawing to 198, 662
+Drawing to 214, 655
+Drawing to 218, 653
+Drawing to 221, 652
+Drawing to 227, 649
+Drawing to 233, 648
+Drawing to 248, 642
+Drawing to 258, 637
+Drawing to 264, 635
+Drawing to 270, 633
+Drawing to 274, 632
+Drawing to 280, 630
+Drawing to 297, 624
+Drawing to 304, 622
+Drawing to 311, 620
+Drawing to 316, 618
+Drawing to 322, 616
+Drawing to 329, 614
+Drawing to 358, 605
+Drawing to 367, 603
+Drawing to 378, 600
+Drawing to 385, 598
+Drawing to 405, 593
+Drawing to 412, 591
+Drawing to 416, 590
+Drawing to 423, 588
+Drawing to 442, 582
+Drawing to 449, 580
+Drawing to 456, 578
+Drawing to 462, 577
+Drawing to 467, 575
+Drawing to 474, 573
+Drawing to 481, 571
+Drawing to 503, 564
+Drawing to 509, 563
+Drawing to 513, 561
+Drawing to 520, 559
+Drawing to 527, 557
+Drawing to 546, 551
+Drawing to 553, 549
+Drawing to 564, 545
+Drawing to 570, 543
+Drawing to 575, 541
+Drawing to 580, 540
+Drawing to 587, 538
+Drawing to 612, 531
+Drawing to 619, 530
+Drawing to 623, 529
+Drawing to 634, 525
+Drawing to 658, 520
+Drawing to 663, 518
+Drawing to 666, 517
+Drawing to 671, 516
+Drawing to 675, 514
+Drawing to 688, 512
+Drawing to 693, 511
+Drawing to 698, 509
+Drawing to 717, 505
+Drawing to 720, 504
+Drawing to 723, 503
+Drawing to 726, 502
+Drawing to 729, 502
+Drawing to 737, 499
+Drawing to 740, 498
+Drawing to 745, 498
+Drawing to 748, 497
+Drawing to 761, 493
+Drawing to 764, 492
+Drawing to 767, 492
+Drawing to 769, 491
+Drawing to 772, 490
+Drawing to 776, 489
+Drawing to 784, 487
+Drawing to 790, 486
+Drawing to 793, 485
+Drawing to 796, 484
+Drawing to 799, 483
+Drawing to 802, 483
+Drawing to 809, 481
+Drawing to 812, 479
+Drawing to 815, 479
+Drawing to 819, 478
+Drawing to 822, 477
+Drawing to 826, 476
+Drawing to 842, 471
+Drawing to 845, 471
+Drawing to 848, 470
+Drawing to 851, 469
+Drawing to 853, 468
+Drawing to 864, 466
+Drawing to 866, 465
+Drawing to 869, 464
+Drawing to 872, 464
+Drawing to 876, 463
+Drawing to 878, 462
+Drawing to 894, 459
+Drawing to 897, 458
+Drawing to 905, 456
+Drawing to 908, 456
+Drawing to 918, 454
+Drawing to 921, 453
+Drawing to 925, 452
+Drawing to 928, 452
+Drawing to 932, 452
+Drawing to 936, 451
+Drawing to 954, 449
+Drawing to 959, 448
+Drawing to 966, 447
+Drawing to 969, 447
+Drawing to 979, 445
+Drawing to 983, 444
+Drawing to 988, 444
+Drawing to 991, 444
+Drawing to 994, 443
+Drawing to 1015, 440
+Drawing to 1019, 440
+Drawing to 1026, 439
+Drawing to 1029, 438
+Drawing to 1040, 438
+Drawing to 1043, 437
+Drawing to 1047, 437
+Drawing to 1054, 436
+Drawing to 1056, 436
+Drawing to 1065, 435
+Drawing to 1067, 435
+Drawing to 1070, 434
+Drawing to 1073, 434
+Drawing to 1076, 434
+Drawing to 1087, 433
+Drawing to 1089, 433
+Drawing to 1091, 432
+Drawing to 1095, 432
+Drawing to 1098, 432
+Drawing to 1104, 431
+Drawing to 1106, 431
+Drawing to 1108, 431
+Drawing to 1110, 431
+Drawing to 1112, 431
+Drawing to 1113, 431
+Drawing to 1119, 430
+Drawing to 1122, 430
+Drawing to 1123, 430
+Drawing to 1129, 429
+Drawing to 1129, 429
+Drawing to 1130, 429
+Drawing to 1130, 429
+Drawing to 1132, 429
+Drawing to 1132, 429
+Drawing to 1133, 429
+Drawing to 1134, 429
+Drawing to 1134, 428
+Drawing to 1135, 428
+Drawing to 1136, 428
+Drawing to 1136, 428
+Drawing to 1137, 428
+Drawing to 1137, 428
+Drawing to 1138, 428
+Drawing to 1138, 428
+Drawing to 1139, 428
+Drawing to 1140, 428
+Drawing to 1140, 428
+Drawing to 1141, 428
+Drawing to 1141, 428
+Drawing to 1142, 428
+Drawing to 1142, 428
+Drawing to 1143, 428
+Drawing to 1144, 428
+Drawing to 1144, 428
+Drawing to 1145, 428
+Drawing to 1145, 427
+Drawing to 1146, 427
+Drawing to 1146, 427
+Drawing to 1147, 427
+Drawing to 1148, 427
+Drawing to 1148, 427
+Drawing to 1148, 427
+Drawing to 1149, 427
+Drawing to 1149, 427
+Drawing to 1150, 427
+Drawing to 1150, 427
+Drawing to 1151, 427
+Drawing to 1151, 426
+Drawing to 1152, 426
+Drawing to 1152, 426
+Drawing to 1153, 425
+Drawing to 1153, 425
+Drawing to 1154, 425
+Drawing to 1154, 425
+Drawing to 1155, 425
+Drawing to 1156, 425
+Drawing to 1156, 424
+Drawing to 1157, 424
+Drawing to 1157, 424
+Drawing to 1158, 424
+Drawing to 1159, 424
+Drawing to 1159, 423
+Drawing to 1161, 423
+Drawing to 1161, 423
+Drawing to 1162, 423
+Drawing to 1163, 422
+Drawing to 1164, 421
+Drawing to 1166, 421
+Drawing to 1167, 421
+Drawing to 1168, 421
+Drawing to 1169, 420
+Drawing to 1171, 419
+Drawing to 1173, 419
+Drawing to 1174, 419
+Drawing to 1174, 418
+Drawing to 1177, 418
+Drawing to 1178, 418
+Drawing to 1179, 417
+Drawing to 1180, 417
+Drawing to 1182, 416
+Drawing to 1183, 416
+Drawing to 1184, 416
+Drawing to 1185, 416
+Drawing to 1187, 415
+Drawing to 1189, 415
+Drawing to 1189, 414
+Drawing to 1190, 414
+Drawing to 1192, 414
+Drawing to 1193, 414
+Drawing to 1194, 413
+Drawing to 1195, 413
+Drawing to 1195, 413
+Drawing to 1196, 413
+Drawing to 1197, 413
+Drawing to 1201, 411
+Drawing to 1202, 411
+Drawing to 1204, 410
+Drawing to 1204, 410
+Drawing to 1205, 409
+Drawing to 1206, 409
+Drawing to 1206, 409
+Drawing to 1207, 408
+Drawing to 1207, 408
+Drawing to 1209, 407
+Drawing to 1211, 407
+Drawing to 1212, 406
+Drawing to 1212, 405
+Drawing to 1213, 405
+Drawing to 1214, 405
+Drawing to 1214, 405
+Drawing to 1215, 405
+Drawing to 1215, 404
+Drawing to 1216, 404
+Drawing to 1217, 403
+Drawing to 1218, 403
+Drawing to 1218, 403
+Drawing to 1219, 403
+Drawing to 1220, 402
+Drawing to 1221, 401
+Drawing to 1222, 401
+Drawing to 1222, 401
+Drawing to 1223, 400
+Drawing to 1223, 400
+Drawing to 1225, 399
+Drawing to 1225, 399
+Drawing to 1226, 399
+Drawing to 1227, 398
+Drawing to 1227, 397
+Drawing to 1228, 397
+Drawing to 1229, 397
+Drawing to 1230, 396
+Drawing to 1231, 396
+Drawing to 1232, 395
+Drawing to 1233, 394
+Drawing to 1233, 394
+Drawing to 1234, 393
+Drawing to 1234, 393
+Drawing to 1235, 392
+Drawing to 1235, 392
+Drawing to 1236, 391
+Drawing to 1237, 390
+Drawing to 1238, 390
+Drawing to 1238, 389
+Drawing to 1240, 388
+Drawing to 1242, 387
+Drawing to 1243, 386
+Drawing to 1244, 385
+Drawing to 1245, 385
+Drawing to 1246, 384
+Drawing to 1246, 383
+Drawing to 1247, 383
+Drawing to 1247, 382
+Drawing to 1249, 381
+Drawing to 1250, 380
+Drawing to 1251, 379
+Drawing to 1252, 378
+Drawing to 1253, 378
+Drawing to 1254, 377
+Drawing to 1254, 377
+Drawing to 1255, 376
+Drawing to 1255, 375
+Drawing to 1256, 375
+Drawing to 1257, 374
+Drawing to 1257, 373
+Drawing to 1258, 372
+Drawing to 1258, 372
+Drawing to 1259, 371
+Drawing to 1259, 371
+Drawing to 1260, 370
+Drawing to 1261, 369
+Drawing to 1261, 369
+Drawing to 1262, 368
+Drawing to 1262, 367
+Drawing to 1263, 367
+Drawing to 1263, 366
+Drawing to 1263, 366
+Drawing to 1264, 365
+Drawing to 1265, 364
+Drawing to 1265, 363
+Drawing to 1266, 362
+Drawing to 1266, 362
+Drawing to 1267, 361
+Drawing to 1267, 361
+Drawing to 1268, 360
+Drawing to 1268, 359
+Drawing to 1269, 359
+Drawing to 1269, 358
+Drawing to 1269, 358
+Drawing to 1270, 357
+Drawing to 1270, 356
+Drawing to 1270, 355
+Drawing to 1270, 355
+Drawing to 1271, 355
+Drawing to 1272, 353
+Drawing to 1272, 353
+Drawing to 1273, 352
+Drawing to 1273, 351
+Drawing to 1273, 351
+Drawing to 1274, 350
+Drawing to 1274, 350
+Drawing to 1274, 349
+Drawing to 1274, 349
+Drawing to 1274, 349
+Drawing to 1275, 349
+Drawing to 1275, 348
+Drawing to 1275, 347
+Drawing to 1275, 347
+Drawing to 1275, 346
+Drawing to 1275, 346
+Drawing to 1276, 346
+Drawing to 1276, 345
+Drawing to 1277, 344
+Drawing to 1277, 343
+Drawing to 1277, 343
+Drawing to 1278, 342
+Drawing to 1278, 342
+Drawing to 1278, 342
+Drawing to 1278, 341
+Drawing to 1278, 341
+Entering CaptureFrames function
+Recording started with region: 86, 341, 1278, 742
+Hotkey Win+Shift+V detected
+Recording stopped. Frames captured: 75
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1192x400
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 1192x400
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+FFmpeg: profile High, level 3.1, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+Exiting CaptureFrames function. Frames captured: 76
+FFmpeg: frame=   0 QP=38.54 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=10277 bytes
+
+FFmpeg: frame=   1 QP=37.40 NAL=2 Slice:P Poc:8   I:24   P:35   SKIP:1816 size=757 bytes
+
+FFmpeg: frame=   2 QP=26.00 NAL=2 Slice:B Poc:4   I:2    P:66   SKIP:1807 size=84 bytes
+
+FFmpeg: frame=   3 QP=27.00 NAL=0 Slice:B Poc:2   I:1    P:58   SKIP:1816 size=70 bytes
+
+FFmpeg: frame=   4 QP=27.00 NAL=0 Slice:B Poc:6   I:1    P:13   SKIP:1861 size=42 bytes
+
+FFmpeg: frame=   5 QP=36.73 NAL=2 Slice:P Poc:16  I:7    P:13   SKIP:1855 size=109 bytes
+
+FFmpeg: frame=   6 QP=26.00 NAL=2 Slice:B Poc:12  I:2    P:23   SKIP:1850 size=59 bytes
+
+FFmpeg: frame=   7 QP=27.00 NAL=0 Slice:B Poc:10  I:2    P:17   SKIP:1856 size=47 bytes
+
+FFmpeg: frame=   8 QP=27.00 NAL=0 Slice:B Poc:14  I:0    P:8    SKIP:1867 size=32 bytes
+
+FFmpeg: frame=   9 QP=26.00 NAL=2 Slice:P Poc:22  I:1    P:0    SKIP:1874 size=32 bytes
+
+FFmpeg: frame=  10 QP=26.00 NAL=2 Slice:B Poc:18  I:0    P:14   SKIP:1861 size=44 bytes
+
+FFmpeg: frame=  11 QP=26.00 NAL=0 Slice:B Poc:20  I:0    P:9    SKIP:1866 size=33 bytes
+
+FFmpeg: frame=  12 QP=35.26 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=13176 bytes
+
+FFmpeg: frame=  13 QP=26.00 NAL=2 Slice:P Poc:8   I:1    P:3    SKIP:1871 size=31 bytes
+
+FFmpeg: frame=  14 QP=29.00 NAL=2 Slice:B Poc:4   I:0    P:3    SKIP:1872 size=28 bytes
+
+FFmpeg: frame=  15 QP=30.00 NAL=0 Slice:B Poc:2   I:0    P:2    SKIP:1873 size=25 bytes
+
+FFmpeg: frame=  16 QP=30.00 NAL=0 Slice:B Poc:6   I:0    P:0    SKIP:1875 size=24 bytes
+
+FFmpeg: frame=  17 QP=23.00 NAL=2 Slice:P Poc:16  I:5    P:3    SKIP:1867 size=47 bytes
+
+FFmpeg: frame=  18 QP=27.00 NAL=2 Slice:B Poc:12  I:0    P:6    SKIP:1869 size=30 bytes
+
+FFmpeg: frame=  19 QP=29.00 NAL=0 Slice:B Poc:10  I:0    P:1    SKIP:1874 size=24 bytes
+
+FFmpeg: frame=  20 QP=28.00 NAL=0 Slice:B Poc:14  I:0    P:2    SKIP:1873 size=25 bytes
+
+FFmpeg: frame=  21 QP=23.00 NAL=2 Slice:P Poc:22  I:1    P:0    SKIP:1874 size=32 bytes
+
+FFmpeg: frame=  22 QP=26.00 NAL=2 Slice:B Poc:18  I:0    P:4    SKIP:1871 size=29 bytes
+
+FFmpeg: frame=  23 QP=24.00 NAL=0 Slice:B Poc:20  I:0    P:1    SKIP:1874 size=24 bytes
+
+FFmpeg: frame=  24 QP=35.28 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=12393 bytes
+
+FFmpeg: frame=  25 QP=22.00 NAL=2 Slice:P Poc:8   I:6    P:4    SKIP:1865 size=46 bytes
+
+FFmpeg: frame=  26 QP=24.00 NAL=2 Slice:B Poc:4   I:1    P:20   SKIP:1854 size=55 bytes
+
+FFmpeg: frame=  27 QP=25.00 NAL=0 Slice:B Poc:2   I:0    P:13   SKIP:1862 size=40 bytes
+
+FFmpeg: frame=  28 QP=25.00 NAL=0 Slice:B Poc:6   I:0    P:9    SKIP:1866 size=32 bytes
+
+FFmpeg: frame=  29 QP=29.92 NAL=2 Slice:P Poc:16  I:7    P:15   SKIP:1853 size=106 bytes
+
+FFmpeg: frame=  30 QP=23.00 NAL=2 Slice:B Poc:12  I:3    P:23   SKIP:1849 size=62 bytes
+
+FFmpeg: frame=  31 QP=25.00 NAL=0 Slice:B Poc:10  I:0    P:16   SKIP:1859 size=39 bytes
+
+FFmpeg: frame=  32 QP=23.00 NAL=0 Slice:B Poc:14  I:1    P:11   SKIP:1863 size=39 bytes
+
+FFmpeg: frame=  33 QP=21.00 NAL=2 Slice:P Poc:22  I:0    P:0    SKIP:1875 size=31 bytes
+
+FFmpeg: scene cut at 46 Icost:881050 Pcost:865199 ratio:0.0180 bias:0.3455 gop:10 (imb:1644 pmb:35)
+
+FFmpeg: frame=  34 QP=22.00 NAL=2 Slice:B Poc:18  I:1    P:17   SKIP:1857 size=51 bytes
+
+FFmpeg: frame=  35 QP=21.00 NAL=0 Slice:B Poc:20  I:0    P:14   SKIP:1861 size=40 bytes
+
+FFmpeg: frame=  36 QP=34.03 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=13853 bytes
+
+FFmpeg: frame=  37 QP=19.00 NAL=2 Slice:P Poc:8   I:11   P:70   SKIP:1794 size=79 bytes
+
+FFmpeg: frame=  38 QP=22.00 NAL=2 Slice:B Poc:4   I:3    P:21   SKIP:1851 size=60 bytes
+
+FFmpeg: frame=  39 QP=23.00 NAL=0 Slice:B Poc:2   I:2    P:16   SKIP:1857 size=48 bytes
+
+FFmpeg: frame=  40 QP=23.00 NAL=0 Slice:B Poc:6   I:0    P:5    SKIP:1870 size=30 bytes
+
+FFmpeg: frame=  41 QP=17.00 NAL=2 Slice:P Poc:16  I:0    P:0    SKIP:1875 size=33 bytes
+
+FFmpeg: scene cut at 57 Icost:1132911 Pcost:862185 ratio:0.2390 bias:0.3727 gop:11 (imb:1421 pmb:258)
+
+FFmpeg: frame=  42 QP=21.00 NAL=2 Slice:B Poc:12  I:0    P:14   SKIP:1861 size=45 bytes
+
+FFmpeg: frame=  43 QP=23.00 NAL=0 Slice:B Poc:10  I:0    P:9    SKIP:1866 size=34 bytes
+
+FFmpeg: frame=  44 QP=22.00 NAL=0 Slice:B Poc:14  I:0    P:10   SKIP:1865 size=36 bytes
+
+FFmpeg: frame=  45 QP=37.21 NAL=2 Slice:P Poc:18  I:0    P:15   SKIP:1860 size=104 bytes
+
+FFmpeg: frame=  46 QP=37.58 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=8476 bytes
+
+FFmpeg: frame=  47 QP=24.19 NAL=2 Slice:P Poc:2   I:1427 P:20   SKIP:428  size=3054 bytes
+
+FFmpeg: frame=  48 QP=23.93 NAL=2 Slice:P Poc:4   I:463  P:26   SKIP:1386 size=500 bytes
+
+FFmpeg: frame=  49 QP=19.76 NAL=2 Slice:P Poc:12  I:152  P:5    SKIP:1718 size=116 bytes
+
+FFmpeg: frame=  50 QP=20.00 NAL=2 Slice:B Poc:8   I:12   P:84   SKIP:1779 size=93 bytes
+
+FFmpeg: frame=  51 QP=21.00 NAL=0 Slice:B Poc:6   I:0    P:102  SKIP:1773 size=79 bytes
+
+FFmpeg: frame=  52 QP=21.00 NAL=0 Slice:B Poc:10  I:0    P:19   SKIP:1856 size=43 bytes
+
+FFmpeg: frame=  53 QP=31.85 NAL=2 Slice:P Poc:16  I:1412 P:30   SKIP:433  size=5073 bytes
+
+FFmpeg: frame=  54 QP=21.00 NAL=0 Slice:B Poc:14  I:1    P:68   SKIP:1806 size=79 bytes
+
+FFmpeg: frame=  55 QP=35.08 NAL=2 Slice:P Poc:18  I:1623 P:7    SKIP:245  size=7851 bytes
+
+FFmpeg: frame=  56 QP=32.20 NAL=2 Slice:P Poc:20  I:1314 P:396  SKIP:165  size=4744 bytes
+
+FFmpeg: frame=  57 QP=30.75 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=13974 bytes
+
+FFmpeg: frame=  58 QP=35.01 NAL=2 Slice:P Poc:8   I:25   P:389  SKIP:1461 size=3252 bytes
+
+FFmpeg: frame=  59 QP=20.00 NAL=2 Slice:B Poc:4   I:0    P:56   SKIP:1819 size=62 bytes
+
+FFmpeg: frame=  60 QP=21.00 NAL=0 Slice:B Poc:2   I:0    P:25   SKIP:1850 size=39 bytes
+
+FFmpeg: frame=  61 QP=21.00 NAL=0 Slice:B Poc:6   I:0    P:1    SKIP:1874 size=26 bytes
+
+FFmpeg: frame=  62 QP=33.67 NAL=2 Slice:P Poc:16  I:53   P:133  SKIP:1689 size=883 bytes
+
+FFmpeg: frame=  63 QP=20.38 NAL=2 Slice:B Poc:12  I:4    P:114  SKIP:1757 size=119 bytes
+
+FFmpeg: frame=  64 QP=21.00 NAL=0 Slice:B Poc:10  I:1    P:2    SKIP:1872 size=27 bytes
+
+FFmpeg: frame=  65 QP=21.00 NAL=0 Slice:B Poc:14  I:1    P:13   SKIP:1861 size=41 bytes
+
+FFmpeg: frame=  66 QP=21.00 NAL=2 Slice:P Poc:22  I:1    P:2    SKIP:1872 size=36 bytes
+
+FFmpeg: frame=  67 QP=21.00 NAL=2 Slice:B Poc:18  I:1    P:16   SKIP:1858 size=48 bytes
+
+FFmpeg: frame=  68 QP=21.00 NAL=0 Slice:B Poc:20  I:2    P:6    SKIP:1867 size=37 bytes
+
+FFmpeg: frame=  69 QP=25.07 NAL=3 Slice:I Poc:0   I:1875 P:0    SKIP:0    size=17626 bytes
+
+FFmpeg: frame=  70 QP=21.00 NAL=2 Slice:P Poc:8   I:1    P:1    SKIP:1873 size=30 bytes
+
+FFmpeg: frame=  71 QP=22.00 NAL=2 Slice:B Poc:4   I:0    P:3    SKIP:1872 size=29 bytes
+
+FFmpeg: frame=  72 QP=23.00 NAL=0 Slice:B Poc:2   I:0    P:2    SKIP:1873 size=27 bytes
+
+FFmpeg: frame=  73 QP=23.00 NAL=0 Slice:B Poc:6   I:1    P:0    SKIP:1874 size=25 bytes
+
+FFmpeg: frame=  74 QP=22.00 NAL=2 Slice:P Poc:12  I:0    P:0    SKIP:1875 size=32 bytes
+
+FFmpeg: frame=  75 QP=23.00 NAL=0 Slice:B Poc:10  I:0    P:1    SKIP:1874 size=24 bytes
+
+FFmpeg: frame I:7     Avg QP:33.79  size: 12825
+
+FFmpeg: frame P:23    Avg QP:26.87  size:  1173
+
+FFmpeg: frame B:46    Avg QP:23.86  size:    44
+
+FFmpeg: consecutive B-frames: 15.8%  5.3% 15.8% 63.2%
+
+FFmpeg: mb I  I16..4:  8.9% 70.9% 20.3%
+
+FFmpeg: mb P  I16..4:  2.9% 10.6%  1.7%  P16..4:  1.8%  0.6%  0.3%  0.0%  0.0%    skip:82.1%
+
+FFmpeg: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  1.1%  0.0%  0.0%  direct: 0.0%  skip:98.9%  L0:30.5% L1:69.5% BI: 0.0%
+
+FFmpeg: final ratefactor: 30.54
+
+FFmpeg: 8x8 transform intra:70.4% inter:39.2%
+
+FFmpeg: coded y,uvDC,uvAC intra: 14.1% 9.5% 7.9% inter: 0.4% 0.1% 0.0%
+
+FFmpeg: i16 v,h,dc,p: 56% 38%  6%  0%
+
+FFmpeg: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 77%  8% 13%  0%  0%  0%  0%  0%  1%
+
+FFmpeg: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 46% 23%  8%  3%  4%  4%  4%  4%  4%
+
+FFmpeg: i8c dc,h,v,p: 92%  2%  5%  0%
+
+FFmpeg: Weighted P-Frames: Y:4.3% UV:0.0%
+
+FFmpeg: ref P L0: 79.6% 19.3%  1.0%  0.1%
+
+FFmpeg: ref B L0: 71.5% 27.1%  1.4%
+
+FFmpeg: ref B L1: 95.7%  4.3%
+
+FFmpeg: kb/s:375.10
+
+FFmpeg: Statistics: 121205 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
+Screen Recorder application starting...
+Overlay window created successfully
+Application started. Press Win+Shift+V to start region selection.
+Hotkey Win+Shift+V detected
+Region selection started
+Mouse down at 562, 225
+Drawing to 562, 226
+Drawing to 562, 227
+Drawing to 564, 228
+Drawing to 564, 229
+Drawing to 565, 230
+Drawing to 566, 231
+Drawing to 567, 233
+Drawing to 569, 235
+Drawing to 571, 237
+Drawing to 574, 240
+Drawing to 579, 244
+Drawing to 584, 249
+Drawing to 591, 256
+Drawing to 599, 262
+Drawing to 607, 268
+Drawing to 616, 276
+Drawing to 625, 284
+Drawing to 635, 290
+Drawing to 644, 299
+Drawing to 654, 307
+Drawing to 665, 315
+Drawing to 675, 321
+Drawing to 685, 328
+Drawing to 695, 336
+Drawing to 705, 342
+Drawing to 715, 349
+Drawing to 726, 356
+Drawing to 737, 364
+Drawing to 747, 371
+Drawing to 758, 378
+Drawing to 769, 386
+Drawing to 780, 393
+Drawing to 792, 401
+Drawing to 803, 408
+Drawing to 814, 416
+Drawing to 828, 426
+Drawing to 844, 437
+Drawing to 863, 450
+Drawing to 880, 463
+Drawing to 899, 476
+Drawing to 913, 485
+Drawing to 927, 495
+Drawing to 941, 505
+Drawing to 952, 513
+Drawing to 965, 521
+Drawing to 977, 529
+Drawing to 992, 539
+Drawing to 1005, 548
+Drawing to 1018, 555
+Drawing to 1034, 564
+Drawing to 1050, 574
+Drawing to 1063, 581
+Drawing to 1075, 586
+Drawing to 1088, 592
+Drawing to 1100, 598
+Drawing to 1111, 603
+Drawing to 1122, 609
+Drawing to 1132, 613
+Drawing to 1142, 618
+Drawing to 1152, 624
+Drawing to 1161, 628
+Drawing to 1171, 634
+Drawing to 1180, 638
+Drawing to 1188, 642
+Drawing to 1195, 646
+Drawing to 1203, 651
+Drawing to 1211, 654
+Drawing to 1220, 659
+Drawing to 1228, 663
+Drawing to 1239, 669
+Drawing to 1250, 674
+Drawing to 1262, 681
+Drawing to 1273, 687
+Drawing to 1284, 692
+Drawing to 1294, 697
+Drawing to 1303, 701
+Drawing to 1312, 706
+Drawing to 1319, 710
+Drawing to 1328, 715
+Drawing to 1335, 719
+Drawing to 1343, 723
+Drawing to 1353, 730
+Drawing to 1363, 735
+Drawing to 1373, 741
+Drawing to 1384, 746
+Drawing to 1394, 750
+Drawing to 1402, 755
+Drawing to 1411, 759
+Drawing to 1419, 763
+Drawing to 1426, 766
+Drawing to 1435, 771
+Drawing to 1441, 773
+Drawing to 1448, 777
+Drawing to 1454, 781
+Drawing to 1461, 784
+Drawing to 1468, 788
+Drawing to 1474, 792
+Drawing to 1482, 796
+Drawing to 1488, 800
+Drawing to 1494, 804
+Drawing to 1500, 808
+Drawing to 1507, 813
+Drawing to 1514, 817
+Drawing to 1521, 822
+Drawing to 1529, 828
+Drawing to 1535, 832
+Drawing to 1542, 836
+Drawing to 1547, 839
+Drawing to 1552, 842
+Drawing to 1555, 844
+Drawing to 1560, 846
+Drawing to 1564, 849
+Drawing to 1570, 853
+Drawing to 1576, 856
+Drawing to 1584, 860
+Drawing to 1589, 863
+Drawing to 1595, 866
+Drawing to 1601, 870
+Drawing to 1609, 874
+Drawing to 1617, 879
+Drawing to 1626, 884
+Drawing to 1636, 889
+Drawing to 1645, 895
+Drawing to 1656, 900
+Drawing to 1668, 904
+Drawing to 1679, 909
+Drawing to 1691, 913
+Drawing to 1702, 918
+Drawing to 1712, 921
+Drawing to 1719, 923
+Drawing to 1723, 924
+Drawing to 1725, 924
+Drawing to 1726, 925
+Drawing to 1728, 925
+Drawing to 1729, 925
+Drawing to 1730, 925
+Drawing to 1732, 926
+Drawing to 1735, 927
+Drawing to 1737, 928
+Drawing to 1739, 930
+Drawing to 1741, 931
+Drawing to 1743, 932
+Drawing to 1745, 933
+Drawing to 1747, 934
+Drawing to 1749, 936
+Drawing to 1752, 936
+Drawing to 1754, 937
+Drawing to 1755, 938
+Drawing to 1757, 938
+Drawing to 1758, 939
+Drawing to 1760, 939
+Drawing to 1761, 940
+Drawing to 1765, 941
+Drawing to 1768, 942
+Drawing to 1772, 944
+Drawing to 1778, 946
+Drawing to 1783, 948
+Drawing to 1789, 951
+Drawing to 1794, 953
+Drawing to 1799, 954
+Drawing to 1803, 956
+Drawing to 1806, 957
+Drawing to 1806, 957
+Entering CaptureFrames function
+Recording started with region: 562, 225, 1806, 957
+Hotkey Win+Shift+V detected
+Recording stopped. Frames captured: 134
+Starting to encode and save video...
+Initializing video encoder with dimensions: 1244x732
+Initializing video encoder...
+FFmpeg version: N-116451-ge7d3ff8dcd-20240729
+Adjusted dimensions: 1244x732
+FFmpeg: using mv_range_thread = 24
+
+FFmpeg: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+
+Exiting CaptureFrames function. Frames captured: 134
+FFmpeg: profile High, level 3.1, 4:2:0, 8-bit
+
+FFmpeg: 264 - core 164 - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=23 lookahead_threads=3 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=400 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+FFmpeg: Setting default whitelist 'file,crypto,data'
+
+Video encoder initialized successfully
+FFmpeg: scene cut at 6 Icost:285902 Pcost:244170 ratio:0.1460 bias:0.2364 gop:6 (imb:2925 pmb:419)
+
+FFmpeg: scene cut at 15 Icost:337773 Pcost:253415 ratio:0.2497 bias:0.3182 gop:9 (imb:2294 pmb:1050)
+
+FFmpeg: frame=   0 QP=37.46 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3738 bytes
+
+FFmpeg: scene cut at 25 Icost:299058 Pcost:196064 ratio:0.3444 bias:0.3455 gop:10 (imb:1885 pmb:1459)
+
+FFmpeg: frame=   1 QP=37.59 NAL=2 Slice:P Poc:4   I:1723 P:191  SKIP:1674 size=2019 bytes
+
+FFmpeg: frame=   2 QP=38.66 NAL=0 Slice:B Poc:2   I:60   P:701  SKIP:2827 size=955 bytes
+
+FFmpeg: scene cut at 29 Icost:253856 Pcost:212360 ratio:0.1635 bias:0.1818 gop:4 (imb:2911 pmb:433)
+FFmpeg: frame=   3 QP=36.91 NAL=2 Slice:P Poc:6   I:1856 P:214  SKIP:1518 size=2075 bytes
+
+
+FFmpeg: frame=   4 QP=36.51 NAL=2 Slice:P Poc:8   I:2066 P:159  SKIP:1363 size=2216 bytes
+
+FFmpeg: frame=   5 QP=36.39 NAL=2 Slice:P Poc:10  I:1975 P:139  SKIP:1474 size=2095 bytes
+
+FFmpeg: frame=   6 QP=33.81 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3873 bytes
+
+FFmpeg: frame=   7 QP=31.94 NAL=2 Slice:P Poc:8   I:22   P:50   SKIP:3516 size=140 bytes
+
+FFmpeg: frame=   8 QP=36.28 NAL=2 Slice:B Poc:4   I:1156 P:463  SKIP:1969 size=2697 bytes
+
+FFmpeg: frame=   9 QP=38.80 NAL=0 Slice:B Poc:2   I:192  P:506  SKIP:2890 size=1053 bytes
+
+FFmpeg: frame=  10 QP=42.21 NAL=0 Slice:B Poc:6   I:2    P:99   SKIP:3487 size=158 bytes
+
+FFmpeg: frame=  11 QP=36.31 NAL=2 Slice:P Poc:10  I:1712 P:214  SKIP:1662 size=1955 bytes
+
+FFmpeg: frame=  12 QP=36.38 NAL=2 Slice:P Poc:12  I:2486 P:149  SKIP:953  size=2420 bytes
+
+FFmpeg: frame=  13 QP=36.49 NAL=2 Slice:P Poc:14  I:1982 P:223  SKIP:1383 size=2493 bytes
+
+FFmpeg: frame=  14 QP=36.75 NAL=2 Slice:P Poc:16  I:1714 P:338  SKIP:1536 size=2551 bytes
+
+FFmpeg: frame=  15 QP=32.12 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=5289 bytes
+
+FFmpeg: scene cut at 40 Icost:264318 Pcost:210980 ratio:0.2018 bias:0.3727 gop:11 (imb:2810 pmb:534)
+
+FFmpeg: frame=  16 QP=41.00 NAL=2 Slice:P Poc:8   I:2    P:25   SKIP:3561 size=71 bytes
+
+FFmpeg: frame=  17 QP=37.93 NAL=2 Slice:B Poc:4   I:54   P:698  SKIP:2836 size=702 bytes
+
+FFmpeg: frame=  18 QP=47.00 NAL=0 Slice:B Poc:2   I:0    P:93   SKIP:3495 size=88 bytes
+
+FFmpeg: frame=  19 QP=47.00 NAL=0 Slice:B Poc:6   I:0    P:69   SKIP:3519 size=81 bytes
+
+FFmpeg: scene cut at 46 Icost:248340 Pcost:204308 ratio:0.1773 bias:0.2364 gop:6 (imb:3002 pmb:342)
+FFmpeg: frame=  20 QP=36.97 NAL=2 Slice:P Poc:10  I:1787 P:308  SKIP:1493 size=2183 bytes
+
+
+FFmpeg: frame=  21 QP=35.95 NAL=2 Slice:P Poc:12  I:1872 P:216  SKIP:1500 size=2114 bytes
+
+FFmpeg: frame=  22 QP=35.81 NAL=2 Slice:P Poc:14  I:2341 P:139  SKIP:1108 size=2526 bytes
+
+FFmpeg: frame=  23 QP=39.93 NAL=2 Slice:P Poc:16  I:1855 P:82   SKIP:1651 size=1587 bytes
+
+FFmpeg: frame=  24 QP=38.60 NAL=2 Slice:P Poc:18  I:1773 P:223  SKIP:1592 size=2067 bytes
+
+FFmpeg: frame=  25 QP=34.35 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3970 bytes
+
+FFmpeg: frame=  26 QP=38.46 NAL=2 Slice:P Poc:6   I:1415 P:128  SKIP:2045 size=1461 bytes
+
+FFmpeg: frame=  27 QP=42.89 NAL=2 Slice:B Poc:2   I:118  P:461  SKIP:3009 size=928 bytes
+
+FFmpeg: frame=  28 QP=49.00 NAL=0 Slice:B Poc:4   I:0    P:174  SKIP:3414 size=149 bytes
+
+FFmpeg: frame=  29 QP=34.76 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3272 bytes
+
+FFmpeg: frame=  30 QP=38.30 NAL=2 Slice:P Poc:4   I:1825 P:161  SKIP:1602 size=2065 bytes
+
+FFmpeg: frame=  31 QP=44.87 NAL=0 Slice:B Poc:2   I:2    P:159  SKIP:3427 size=162 bytes
+
+FFmpeg: frame=  32 QP=38.08 NAL=2 Slice:P Poc:6   I:2169 P:252  SKIP:1167 size=2796 bytes
+
+FFmpeg: frame=  33 QP=37.51 NAL=2 Slice:P Poc:14  I:125  P:124  SKIP:3339 size=416 bytes
+
+FFmpeg: scene cut at 57 Icost:250772 Pcost:174404 ratio:0.3045 bias:0.3727 gop:11 (imb:2556 pmb:788)
+
+FFmpeg: frame=  34 QP=37.76 NAL=2 Slice:B Poc:10  I:630  P:899  SKIP:2059 size=2336 bytes
+
+FFmpeg: frame=  35 QP=38.74 NAL=0 Slice:B Poc:8   I:6    P:545  SKIP:3037 size=578 bytes
+
+FFmpeg: frame=  36 QP=36.57 NAL=0 Slice:B Poc:12  I:1    P:265  SKIP:3322 size=216 bytes
+
+FFmpeg: frame=  37 QP=38.86 NAL=2 Slice:P Poc:16  I:1388 P:231  SKIP:1969 size=1655 bytes
+
+FFmpeg: frame=  38 QP=38.66 NAL=2 Slice:P Poc:18  I:1794 P:221  SKIP:1573 size=1762 bytes
+FFmpeg: scene cut at 63 Icost:246621 Pcost:201511 ratio:0.1829 bias:0.2364 gop:6 (imb:3000 pmb:344)
+
+
+FFmpeg: frame=  39 QP=37.30 NAL=2 Slice:P Poc:20  I:2049 P:169  SKIP:1370 size=1987 bytes
+
+FFmpeg: frame=  40 QP=34.94 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3394 bytes
+
+FFmpeg: frame=  41 QP=36.52 NAL=2 Slice:P Poc:2   I:1850 P:239  SKIP:1499 size=2299 bytes
+
+FFmpeg: frame=  42 QP=33.90 NAL=2 Slice:P Poc:10  I:168  P:100  SKIP:3320 size=403 bytes
+
+FFmpeg: frame=  43 QP=34.96 NAL=2 Slice:B Poc:6   I:864  P:577  SKIP:2147 size=2459 bytes
+
+FFmpeg: frame=  44 QP=48.00 NAL=0 Slice:B Poc:4   I:1    P:120  SKIP:3467 size=117 bytes
+
+FFmpeg: frame=  45 QP=37.95 NAL=0 Slice:B Poc:8   I:3    P:111  SKIP:3474 size=121 bytes
+
+FFmpeg: frame=  46 QP=34.56 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3397 bytes
+
+FFmpeg: frame=  47 QP=37.62 NAL=2 Slice:P Poc:2   I:1801 P:111  SKIP:1676 size=1676 bytes
+
+FFmpeg: frame=  48 QP=38.79 NAL=2 Slice:P Poc:4   I:2106 P:193  SKIP:1289 size=2427 bytes
+
+FFmpeg: frame=  49 QP=38.92 NAL=2 Slice:P Poc:12  I:1739 P:314  SKIP:1535 size=2615 bytes
+
+FFmpeg: scene cut at 74 Icost:251594 Pcost:176616 ratio:0.2980 bias:0.3727 gop:11 (imb:2540 pmb:804)
+
+FFmpeg: frame=  50 QP=37.95 NAL=2 Slice:B Poc:8   I:41   P:573  SKIP:2974 size=934 bytes
+
+FFmpeg: frame=  51 QP=40.16 NAL=0 Slice:B Poc:6   I:0    P:167  SKIP:3421 size=169 bytes
+
+FFmpeg: frame=  52 QP=40.76 NAL=0 Slice:B Poc:10  I:4    P:323  SKIP:3261 size=255 bytes
+
+FFmpeg: frame=  53 QP=40.17 NAL=2 Slice:P Poc:14  I:303  P:585  SKIP:2700 size=822 bytes
+
+FFmpeg: frame=  54 QP=38.33 NAL=2 Slice:P Poc:16  I:1695 P:280  SKIP:1613 size=1979 bytes
+
+FFmpeg: frame=  55 QP=38.02 NAL=2 Slice:P Poc:18  I:1818 P:186  SKIP:1584 size=1878 bytes
+
+FFmpeg: frame=  56 QP=37.55 NAL=2 Slice:P Poc:20  I:2004 P:175  SKIP:1409 size=2059 bytes
+
+FFmpeg: frame=  57 QP=34.94 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3283 bytes
+
+FFmpeg: scene cut at 84 Icost:342733 Pcost:264362 ratio:0.2287 bias:0.3455 gop:10 (imb:2364 pmb:980)
+FFmpeg: frame=  58 QP=37.27 NAL=2 Slice:P Poc:2   I:2119 P:173  SKIP:1296 size=2395 bytes
+
+
+FFmpeg: frame=  59 QP=38.24 NAL=2 Slice:P Poc:8   I:1338 P:176  SKIP:2074 size=1687 bytes
+
+FFmpeg: frame=  60 QP=39.04 NAL=2 Slice:B Poc:4   I:15   P:144  SKIP:3429 size=231 bytes
+
+FFmpeg: frame=  61 QP=40.91 NAL=0 Slice:B Poc:6   I:237  P:452  SKIP:2899 size=1194 bytes
+
+FFmpeg: frame=  62 QP=37.65 NAL=2 Slice:P Poc:10  I:471  P:1006 SKIP:2111 size=1022 bytes
+
+FFmpeg: frame=  63 QP=34.68 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3363 bytes
+
+FFmpeg: frame=  64 QP=37.45 NAL=2 Slice:P Poc:2   I:1810 P:97   SKIP:1681 size=1700 bytes
+
+FFmpeg: scene cut at 89 Icost:283289 Pcost:228898 ratio:0.1920 bias:0.2091 gop:5 (imb:2783 pmb:561)
+
+FFmpeg: frame=  65 QP=37.90 NAL=2 Slice:P Poc:4   I:1893 P:200  SKIP:1495 size=2194 bytes
+
+FFmpeg: frame=  66 QP=37.96 NAL=2 Slice:P Poc:8   I:2154 P:263  SKIP:1171 size=2844 bytes
+
+FFmpeg: scene cut at 92 Icost:279619 Pcost:237109 ratio:0.1520 bias:0.1545 gop:3 (imb:2920 pmb:424)
+
+FFmpeg: frame=  67 QP=37.82 NAL=0 Slice:B Poc:6   I:202  P:782  SKIP:2604 size=1317 bytes
+
+FFmpeg: frame=  68 QP=36.16 NAL=2 Slice:P Poc:16  I:171  P:139  SKIP:3278 size=467 bytes
+
+FFmpeg: frame=  69 QP=37.23 NAL=2 Slice:B Poc:12  I:550  P:1110 SKIP:1928 size=2508 bytes
+
+FFmpeg: frame=  70 QP=47.12 NAL=0 Slice:B Poc:10  I:1    P:107  SKIP:3480 size=120 bytes
+
+FFmpeg: frame=  71 QP=36.24 NAL=0 Slice:B Poc:14  I:12   P:825  SKIP:2751 size=735 bytes
+
+FFmpeg: frame=  72 QP=37.51 NAL=2 Slice:P Poc:18  I:2065 P:168  SKIP:1355 size=2055 bytes
+
+FFmpeg: frame=  73 QP=37.70 NAL=2 Slice:P Poc:20  I:2139 P:120  SKIP:1329 size=2024 bytes
+
+FFmpeg: frame=  74 QP=34.95 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3224 bytes
+
+FFmpeg: frame=  75 QP=36.75 NAL=2 Slice:P Poc:4   I:2034 P:180  SKIP:1374 size=2481 bytes
+
+FFmpeg: frame=  76 QP=36.17 NAL=0 Slice:B Poc:2   I:12   P:220  SKIP:3356 size=241 bytes
+
+FFmpeg: scene cut at 101 Icost:340634 Pcost:265424 ratio:0.2208 bias:0.3182 gop:9 (imb:2385 pmb:959)
+
+FFmpeg: frame=  77 QP=37.77 NAL=2 Slice:P Poc:8   I:1374 P:191  SKIP:2023 size=1839 bytes
+
+FFmpeg: frame=  78 QP=39.40 NAL=0 Slice:B Poc:6   I:236  P:574  SKIP:2778 size=1354 bytes
+
+FFmpeg: frame=  79 QP=36.44 NAL=2 Slice:P Poc:12  I:1953 P:333  SKIP:1302 size=2077 bytes
+
+FFmpeg: frame=  80 QP=37.76 NAL=0 Slice:B Poc:10  I:5    P:423  SKIP:3160 size=373 bytes
+
+FFmpeg: frame=  81 QP=36.86 NAL=2 Slice:P Poc:14  I:2297 P:123  SKIP:1168 size=2284 bytes
+
+FFmpeg: frame=  82 QP=37.47 NAL=2 Slice:P Poc:16  I:1901 P:228  SKIP:1459 size=2305 bytes
+
+FFmpeg: frame=  83 QP=37.48 NAL=2 Slice:P Poc:18  I:1634 P:299  SKIP:1655 size=2295 bytes
+
+FFmpeg: frame=  84 QP=33.97 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=4684 bytes
+
+FFmpeg: scene cut at 110 Icost:298585 Pcost:239550 ratio:0.1977 bias:0.3182 gop:9 (imb:2754 pmb:590)
+
+FFmpeg: frame=  85 QP=31.19 NAL=2 Slice:P Poc:6   I:13   P:194  SKIP:3381 size=199 bytes
+
+FFmpeg: frame=  86 QP=35.36 NAL=2 Slice:B Poc:2   I:35   P:468  SKIP:3085 size=711 bytes
+
+FFmpeg: frame=  87 QP=48.00 NAL=0 Slice:B Poc:4   I:1    P:174  SKIP:3413 size=177 bytes
+
+FFmpeg: frame=  88 QP=37.54 NAL=2 Slice:P Poc:8   I:905  P:396  SKIP:2287 size=1306 bytes
+
+FFmpeg: frame=  89 QP=34.04 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3874 bytes
+
+FFmpeg: frame=  90 QP=37.33 NAL=2 Slice:P Poc:4   I:2190 P:104  SKIP:1294 size=2103 bytes
+
+FFmpeg: scene cut at 116 Icost:284714 Pcost:229429 ratio:0.1942 bias:0.2364 gop:6 (imb:2762 pmb:582)
+
+FFmpeg: frame=  91 QP=48.00 NAL=0 Slice:B Poc:2   I:0    P:125  SKIP:3463 size=98 bytes
+
+FFmpeg: frame=  92 QP=33.09 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=4073 bytes
+
+FFmpeg: frame=  93 QP=32.68 NAL=2 Slice:P Poc:8   I:41   P:30   SKIP:3517 size=129 bytes
+
+FFmpeg: frame=  94 QP=37.85 NAL=2 Slice:B Poc:4   I:1101 P:490  SKIP:1997 size=2507 bytes
+
+FFmpeg: frame=  95 QP=48.00 NAL=0 Slice:B Poc:2   I:1    P:124  SKIP:3463 size=101 bytes
+
+FFmpeg: frame=  96 QP=41.96 NAL=0 Slice:B Poc:6   I:10   P:189  SKIP:3389 size=250 bytes
+
+FFmpeg: frame=  97 QP=36.83 NAL=2 Slice:P Poc:10  I:1678 P:203  SKIP:1707 size=1845 bytes
+
+FFmpeg: frame=  98 QP=37.36 NAL=2 Slice:P Poc:12  I:2283 P:130  SKIP:1175 size=2153 bytes
+
+FFmpeg: frame=  99 QP=37.36 NAL=2 Slice:P Poc:14  I:1972 P:218  SKIP:1398 size=2292 bytes
+
+FFmpeg: frame= 100 QP=38.06 NAL=2 Slice:P Poc:16  I:1615 P:307  SKIP:1666 size=2176 bytes
+
+FFmpeg: frame= 101 QP=33.93 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=4720 bytes
+
+FFmpeg: frame= 102 QP=36.18 NAL=2 Slice:P Poc:6   I:31   P:166  SKIP:3391 size=263 bytes
+
+FFmpeg: frame= 103 QP=47.00 NAL=2 Slice:B Poc:2   I:0    P:24   SKIP:3564 size=50 bytes
+FFmpeg: scene cut at 127 Icost:283598 Pcost:217021 ratio:0.2348 bias:0.3727 gop:11 (imb:2454 pmb:890)
+
+
+FFmpeg: frame= 104 QP=39.90 NAL=0 Slice:B Poc:4   I:83   P:467  SKIP:3038 size=607 bytes
+
+FFmpeg: frame= 105 QP=38.60 NAL=2 Slice:P Poc:10  I:1751 P:204  SKIP:1633 size=1940 bytes
+
+FFmpeg: scene cut at 132 Icost:251240 Pcost:205913 ratio:0.1804 bias:0.2091 gop:5 (imb:2969 pmb:375)
+
+FFmpeg: frame= 106 QP=33.92 NAL=0 Slice:B Poc:8   I:3    P:94   SKIP:3491 size=120 bytes
+
+FFmpeg: frame= 107 QP=37.85 NAL=2 Slice:P Poc:12  I:1783 P:204  SKIP:1601 size=1841 bytes
+
+FFmpeg: frame= 108 QP=37.66 NAL=2 Slice:P Poc:14  I:2280 P:114  SKIP:1194 size=2188 bytes
+
+FFmpeg: frame= 109 QP=37.07 NAL=2 Slice:P Poc:16  I:1979 P:171  SKIP:1438 size=2144 bytes
+
+FFmpeg: frame= 110 QP=33.54 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=4226 bytes
+
+FFmpeg: frame= 111 QP=30.18 NAL=2 Slice:P Poc:4   I:14   P:52   SKIP:3522 size=134 bytes
+
+FFmpeg: frame= 112 QP=41.28 NAL=0 Slice:B Poc:2   I:218  P:833  SKIP:2537 size=1324 bytes
+
+FFmpeg: frame= 113 QP=37.88 NAL=2 Slice:P Poc:8   I:1475 P:187  SKIP:1926 size=1673 bytes
+
+FFmpeg: frame= 114 QP=45.24 NAL=0 Slice:B Poc:6   I:1    P:108  SKIP:3479 size=125 bytes
+
+FFmpeg: frame= 115 QP=36.81 NAL=2 Slice:P Poc:10  I:2365 P:163  SKIP:1060 size=2379 bytes
+
+FFmpeg: frame= 116 QP=33.76 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3992 bytes
+
+FFmpeg: frame= 117 QP=37.58 NAL=2 Slice:P Poc:4   I:2175 P:232  SKIP:1181 size=2885 bytes
+
+FFmpeg: frame= 118 QP=33.62 NAL=0 Slice:B Poc:2   I:0    P:144  SKIP:3444 size=114 bytes
+
+FFmpeg: frame= 119 QP=37.61 NAL=2 Slice:P Poc:12  I:937  P:347  SKIP:2304 size=1710 bytes
+
+FFmpeg: frame= 120 QP=36.09 NAL=2 Slice:B Poc:8   I:129  P:659  SKIP:2800 size=1175 bytes
+
+FFmpeg: frame= 121 QP=48.00 NAL=0 Slice:B Poc:6   I:0    P:517  SKIP:3071 size=367 bytes
+
+FFmpeg: frame= 122 QP=41.28 NAL=0 Slice:B Poc:10  I:1    P:234  SKIP:3353 size=207 bytes
+
+FFmpeg: frame= 123 QP=37.50 NAL=2 Slice:P Poc:14  I:1686 P:395  SKIP:1507 size=2123 bytes
+
+FFmpeg: frame= 124 QP=37.34 NAL=2 Slice:P Poc:16  I:1783 P:225  SKIP:1580 size=1875 bytes
+
+FFmpeg: frame= 125 QP=36.69 NAL=2 Slice:P Poc:18  I:2160 P:150  SKIP:1278 size=2204 bytes
+
+FFmpeg: frame= 126 QP=36.35 NAL=2 Slice:P Poc:20  I:2120 P:180  SKIP:1288 size=2355 bytes
+
+FFmpeg: frame= 127 QP=34.29 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3760 bytes
+
+FFmpeg: frame= 128 QP=34.71 NAL=2 Slice:P Poc:6   I:183  P:137  SKIP:3268 size=402 bytes
+
+FFmpeg: frame= 129 QP=37.63 NAL=2 Slice:B Poc:2   I:839  P:581  SKIP:2168 size=1987 bytes
+
+FFmpeg: frame= 130 QP=39.57 NAL=0 Slice:B Poc:4   I:428  P:758  SKIP:2402 size=1791 bytes
+
+FFmpeg: frame= 131 QP=45.00 NAL=2 Slice:P Poc:8   I:14   P:72   SKIP:3502 size=169 bytes
+
+FFmpeg: frame= 132 QP=34.88 NAL=3 Slice:I Poc:0   I:3588 P:0    SKIP:0    size=3303 bytes
+
+FFmpeg: frame= 133 QP=36.82 NAL=2 Slice:P Poc:2   I:1938 P:87   SKIP:1563 size=1868 bytes
+
+FFmpeg: frame I:18    Avg QP:34.34  size:  3858
+
+FFmpeg: frame P:71    Avg QP:37.20  size:  1786
+
+FFmpeg: frame B:45    Avg QP:40.71  size:   754
+
+FFmpeg: consecutive B-frames: 48.5% 16.4% 11.2% 23.9%
+
+FFmpeg: mb I  I16..4: 43.7% 56.3%  0.0%
+
+FFmpeg: mb P  I16..4: 21.9% 21.3%  0.0%  P16..4:  5.4%  0.2%  0.1%  0.0%  0.0%    skip:51.1%
+
+FFmpeg: mb B  I16..4:  2.5%  2.0%  0.0%  B16..8: 10.7%  0.2%  0.0%  direct: 0.0%  skip:84.6%  L0:34.8% L1:64.6% BI: 0.6%
+
+FFmpeg: final ratefactor: 38.02
+
+FFmpeg: 8x8 transform intra:51.6% inter:99.8%
+
+FFmpeg: coded y,uvDC,uvAC intra: 3.2% 10.4% 0.0% inter: 0.3% 0.2% 0.0%
+
+FFmpeg: i16 v,h,dc,p: 35% 34%  4% 27%
+
+FFmpeg: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20%  8% 67%  0%  3%  1%  1%  0%  0%
+
+FFmpeg: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  4%  6% 15%  1% 61% 10%  1%  0%  0%
+
+FFmpeg: i8c dc,h,v,p: 94%  3%  3%  0%
+
+FFmpeg: Weighted P-Frames: Y:1.4% UV:1.4%
+
+FFmpeg: ref P L0: 59.9%  3.9% 22.6% 13.5%
+
+FFmpeg: ref B L0: 85.9% 12.6%  1.5%
+
+FFmpeg: ref B L1: 94.5%  5.5%
+
+FFmpeg: kb/s:412.32
+
+FFmpeg: Statistics: 233042 bytes written, 2 seeks, 4 writeouts
+
+Video saved successfully!
