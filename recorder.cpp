@@ -5,7 +5,11 @@ ScreenRecorder* ScreenRecorder::s_instance = nullptr;
 const std::chrono::milliseconds ScreenRecorder::FRAME_INTERVAL(1000 / FRAME_RATE);
 
 std::ofstream logFile("debug.log", std::ios_base::app);
-
+std::string av_error_to_string(int errnum) {
+    char errbuf[AV_ERROR_MAX_STRING_SIZE];
+    av_strerror(errnum, errbuf, AV_ERROR_MAX_STRING_SIZE);
+    return std::string(errbuf);
+}
 ScreenRecorder::ScreenRecorder()
         : m_isRecording(false), m_isSelecting(false),
           m_formatContext(nullptr), m_videoStream(nullptr),
@@ -377,7 +381,7 @@ void ScreenRecorder::EncodeAndSaveVideo(const char* filename) {
 
         ret = avcodec_send_frame(m_codecContext, frame);
         if (ret < 0) {
-            LogDebug("Error sending frame for encoding: " + std::string(av_err2str(ret)));
+            LogDebug("Error sending frame for encoding: " + av_error_to_string(ret));
             break;
         }
 
@@ -386,7 +390,7 @@ void ScreenRecorder::EncodeAndSaveVideo(const char* filename) {
             if (ret == AVERROR(EAGAIN) || ret == AVERROR_EOF) {
                 break;
             } else if (ret < 0) {
-                LogDebug("Error during encoding: " + std::string(av_err2str(ret)));
+                LogDebug("Error during encoding: " + av_error_to_string(ret));
                 break;
             }
 
@@ -396,7 +400,7 @@ void ScreenRecorder::EncodeAndSaveVideo(const char* filename) {
             pkt->stream_index = m_videoStream->index;
             ret = av_interleaved_write_frame(m_formatContext, pkt);
             if (ret < 0) {
-                LogDebug("Error writing frame: " + std::string(av_err2str(ret)));
+                LogDebug("Error writing frame: " + av_error_to_string(ret));
             }
             av_packet_unref(pkt);
         }
