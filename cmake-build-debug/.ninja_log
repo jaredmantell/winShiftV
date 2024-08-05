@@ -1,7 +1,10 @@
 # ninja log v5
-1	1039	7440035198475775	CMakeFiles/ScreenRecorder.dir/main.cpp.obj	2b894b9de174007d
-1039	1224	7440035199985600	ScreenRecorder.exe	188494ad5339ed3f
-2	176	7440038141356474	build.ninja	315d11a8b4be9297
-1	118	7440038141356474	build.ninja	315d11a8b4be9297
-1	1110	7440038152952369	CMakeFiles/ScreenRecorder.dir/main.cpp.obj	2b894b9de174007d
-1111	1262	7440038154161870	ScreenRecorder.exe	188494ad5339ed3f
+1	1198	7445320483418199	CMakeFiles/ScreenRecorder.dir/recorder.cpp.obj	f19bfe4a9911cf76
+9	1246	7445319081920662	CMakeFiles/ScreenRecorder.dir/main.cpp.obj	2dbb2c2c4e754fb0
+1	461	7445348393122909	ScreenRecorder.exe	473ec1ed281addbc
+2	320	7445351480403121	build.ninja	315d11a8b4be9297
+1	296	7445351480403121	build.ninja	315d11a8b4be9297
+1	1185	7445351492887247	CMakeFiles/ScreenRecorder.dir/main.cpp.obj	2dbb2c2c4e754fb0
+1185	1371	7445351493897259	ScreenRecorder.exe	473ec1ed281addbc
+1	1143	7445352909264076	CMakeFiles/ScreenRecorder.dir/recorder.cpp.obj	f19bfe4a9911cf76
+1143	1386	7445352910824080	ScreenRecorder.exe	473ec1ed281addbc
